@@ -5,7 +5,10 @@
   
 
   
-  
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="LIGA INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",SPOTV2-HD
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|referer=https://www.visionplus.id 
   
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
