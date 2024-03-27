@@ -7,11 +7,14 @@ Indonesia
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="INDONESIA", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="INDONESIA", INDOSIAR Liga 1
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+
 #EXTINF:-1 group-title="INDONESIA" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="INDONESIA", MOJI
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
  
 #EXTINF:-1 group-title="INDONESIA" tvg-id="mnctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -92,6 +95,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|re
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="INDONESIA", TVRI
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd|referer=https://www.visionplus.id
+
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4F68vbH/tvri.png" group-title="INDONESIA", TVRI NASIONAL 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="INDONESIA", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
@@ -177,10 +184,38 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp6trSt/udar.jpg" group-title="SPORT", Udar Sport
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2000/index.m3u8
 
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="SPORT", FOX SPORTS mx
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="SPORT", FOX SPORTS 2 mx
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="SPORT", FOX SPORTS 3 mx
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="SPORT", ESPN mx
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="SPORT", ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="SPORT", ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+
+
+
+
+
 Kids
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="KIDS", MY KIDZ
 http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="KIDS", NICK JR
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="KIDS", CARTOON NETWORK 
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhtWZNJ/mentari.png" group-title="KIDS", Mentari
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/mentaritv.m3u8
@@ -212,11 +247,27 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHsmjKn/moonbug.png" group-title="KIDS", Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="KIDS", MENTARI TV 2
+http://iptvtree.net:8080/c4596f70/c3848d92/298546
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png"  group-title="KIDS",  TOONCAST 
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="KIDS", ANIMAL PLANET
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="KIDS", ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+
 
 
 MOVIES
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={  "keys":[  {  "kty":"oct","k":"vqLQ+J+z+6+h/J80uoc0pg","kid":"kSdgxAnrWv8+BgQixQL0EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJXjn8X/hbo.png" group-title="MOVIES",Hbo
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
