@@ -222,6 +222,9 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQmfTfb/billiard.jpg" group-title="SPORT", Billyard Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u8
 
+#EXTINF:-1 channel-id="samsung-USBD12000183X" tvg-id="USBD12000183X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20230627T214943SQUARE.png_20230627214943.png" tvg-chno="1186" group-title="SPORT" , Billiard TV
+https://i.mjh.nz/SamsungTVPlus/USBD12000183X.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVy42Xn/wsport.jpg" group-title="SPORT", BW Sport
 http://210.210.155.35/uq2663/h/h26/index.m3u8?app_type=web&amp;userid=4rr0w&amp;tkn=bl4ck&amp;chname=Wsport
 
@@ -257,6 +260,49 @@ https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595662
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-qa.png" ,beIN Sports 1
 http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_shareext@beinsport1TH.ts
+
+#EXTINF:-1 channel-id="pluto-5df975e2b27cf5000921c102" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-chno="2910" group-title="SPORT" , beIN SPORTS XTRA
+https://r.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvg-chno="2780" group-title="SPORT" , CBS Sports HQ
+https://r.mjh.nz/PlutoTV/5e9f2c05172a0f0007db4786-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="2790" group-title="SPORT" , FOX Sports
+https://r.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6549306c83595c000815a696" tvg-id="6549306c83595c000815a696" tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png" tvg-chno="2791" group-title="SPORT" , NBC Sports
+https://r.mjh.nz/PlutoTV/6549306c83595c000815a696-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5e66968a70f34c0007d050be" tvg-id="5e66968a70f34c0007d050be" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" tvg-chno="2810" group-title="SPORT" , MLB
+https://r.mjh.nz/PlutoTV/5e66968a70f34c0007d050be-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5de94dacb394a300099fa22a" tvg-id="5de94dacb394a300099fa22a" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" tvg-chno="2820" group-title="SPORT" , PGA TOUR
+https://r.mjh.nz/PlutoTV/5de94dacb394a300099fa22a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65493029ab052400089e9d2f" tvg-id="65493029ab052400089e9d2f" tvg-logo="https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG.png" tvg-chno="2823" group-title="SPORT" , GolfPass
+https://r.mjh.nz/PlutoTV/65493029ab052400089e9d2f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" tvg-chno="2830" group-title="SPORT" , Golazo Network
+https://r.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-56340779a738201b4ccfeac9" tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" tvg-chno="2850" group-title="SPORT" , Pluto TV Sports
+https://r.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5812b0f2237a6ff45d16c3f9" tvg-id="5812b0f2237a6ff45d16c3f9" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG-1543864366762.png" tvg-chno="2860" group-title="SPORT" , Fight
+https://r.mjh.nz/PlutoTV/5812b0f2237a6ff45d16c3f9-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ebc8688f3697d00072f7cf8" tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvg-chno="2870" group-title="SPORT" , Bellator MMA
+https://r.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6334a574605f140007e233c4" tvg-id="6334a574605f140007e233c4" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" tvg-chno="2880" group-title="SPORT" , PFL MMA
+https://r.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-59b722526996084038c01e1b" tvg-id="59b722526996084038c01e1b" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" tvg-chno="2890" group-title="SPORT" , TNA Wrestling
+https://r.mjh.nz/PlutoTV/59b722526996084038c01e1b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5417a212ff9fba68282fbf5e" tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" tvg-chno="2900" group-title="SPORT" , GLORY Kickboxing
+https://r.mjh.nz/PlutoTV/5417a212ff9fba68282fbf5e-alt.m3u8
+
 
 
 
