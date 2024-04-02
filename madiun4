@@ -720,39 +720,39 @@ https://link.zozotv.xyz:443/Rina923/390023/302
 KNOWLEDGE
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdHt5Qb/afn.png" group-title="MKNOWLEDGE",Afn
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdHt5Qb/afn.png" group-title="KNOWLEDGE",Afn
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx79gNP/bbceart.png" group-title="MKNOWLEDGE",Bbc Earth
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx79gNP/bbceart.png" group-title="KNOWLEDGE",Bbc Earth
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8P6tkJz/outdoor.png" group-title="MKNOWLEDGE",Outdoor
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8P6tkJz/outdoor.png" group-title="KNOWLEDGE",Outdoor
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7r0ktcw/history.png" group-title="MKNOWLEDGE",History
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7r0ktcw/history.png" group-title="KNOWLEDGE",History
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/94p4KhG/discovery.png" group-title="MKNOWLEDGE",Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/94p4KhG/discovery.png" group-title="KNOWLEDGE",Discovery Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/94p4KhG/discovery.png" group-title="KNOWLEDGE",Discovery Channel
 https://kusnadipepenk.github.io/ntn/disc.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2kr5kc/science.png" group-title="MKNOWLEDGE",Discover Science
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2kr5kc/science.png" group-title="KNOWLEDGE",Discover Science
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LPCmgSh/crime.png" group-title="MKNOWLEDGE",Crime Invest
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LPCmgSh/crime.png" group-title="KNOWLEDGE",Crime Invest
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nz9V9x8/investigasi.png" group-title="MKNOWLEDGE",Investigation Discovery
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nz9V9x8/investigasi.png" group-title="KNOWLEDGE",Investigation Discovery
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Science
@@ -760,36 +760,36 @@ https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryScience.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gV3V5Nr/cgtn.png" group-title="MKNOWLEDGE",Cgtn
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gV3V5Nr/cgtn.png" group-title="KNOWLEDGE",Cgtn
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jfZVWwG/trakker.pngg" group-title="MKNOWLEDGE",Global Trekker
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jfZVWwG/trakker.pngg" group-title="KNOWLEDGE",Global Trekker
 https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2WLry3D/dmax.png" group-title="MKNOWLEDGE",Dmax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2WLry3D/dmax.png" group-title="KNOWLEDGE",Dmax
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sF502sh/turbo.png" group-title="MKNOWLEDGE",Discover Turbo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sF502sh/turbo.png" group-title="KNOWLEDGE",Discover Turbo
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/sF502sh/turbo.png" group-title="KNOWLEDGE",Discovery Turbo
 https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0JzTJs/travel.png" group-title="MKNOWLEDGE",Travel Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0JzTJs/travel.png" group-title="KNOWLEDGE",Travel Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cX4txzp/nasatv.png" group-title="MKNOWLEDGE",Nasa Tv 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cX4txzp/nasatv.png" group-title="KNOWLEDGE",Nasa Tv 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cX4txzp/nasatv.png" group-title="MKNOWLEDGE",Nasa Tv 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cX4txzp/nasatv.png" group-title="KNOWLEDGE",Nasa Tv 2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3dXRskq/dfc.png" group-title="MKNOWLEDGE",Dfc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3dXRskq/dfc.png" group-title="KNOWLEDGE",Dfc
 http://210.210.155.35/uq2663/h/h221/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XtW2jp3/hgtv.png" group-title="MKNOWLEDGE",Hgtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XtW2jp3/hgtv.png" group-title="KNOWLEDGE",Hgtv
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 
 #EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="HGTV asia" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="KNOWLEDGE",HGTV
@@ -1081,4 +1081,4 @@ http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
 
 
- 
+
