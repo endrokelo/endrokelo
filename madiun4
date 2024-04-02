@@ -280,9 +280,6 @@ http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&ex
 #EXTINF:-1 channel-id="pluto-5df975e2b27cf5000921c102" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-chno="2910" group-title="SPORT" , beIN SPORTS XTRA
 https://r.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvg-chno="2780" group-title="SPORT" , CBS Sports HQ
-https://r.mjh.nz/PlutoTV/5e9f2c05172a0f0007db4786-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="2790" group-title="SPORT" , FOX Sports
 https://r.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8
 
