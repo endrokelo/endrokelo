@@ -46,7 +46,7 @@ https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595465
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|referer=https://www.visionplus.id
 
-#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/mnctv_new.png" group-title="FLIX TV - TV NASIONAL", group-title="INDONESIA", MNCTV_HD
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/mnctv_new.png" group-title="INDONESIA", group-title="INDONESIA", MNCTV_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -54,7 +54,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/12/84162435.jpg" group-title="INDONESIA", Global TV
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=https://www.visionplus.id
 
-#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/gtv_new.png" group-title="FLIX TV - TV NASIONAL", group-title="INDONESIA", GTV_HD
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/gtv_new.png" group-title="INDONESIA", group-title="INDONESIA", GTV_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/632.ts
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -62,7 +62,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/632.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4urMukgFxOsmKR06xskG4LzwSbtbwosJ0oQ&usqp=CAU" group-title="INDONESIA", RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referer=https://www.visionplus.id
 
-#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="FLIX TV - TV NASIONAL", group-title="INDONESIA", RCTI_HD
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="INDONESIA", group-title="INDONESIA", RCTI_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="INDONESIA", INEWS
@@ -70,7 +70,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|referer=https://www.visionplus.id
 
-#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" group-title="FLIX TV - TV NASIONAL", group-title="INDONESIA", iNEWS_HD
+#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" group-title="INDONESIA", group-title="INDONESIA", iNEWS_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/633.ts
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="INDONESIA", TRANS 7 HD
@@ -201,8 +201,6 @@ https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="INDONESIA",Jawa Pos TV (720p)
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/MBC.png/revision/latest?cb=20230114043821&path-prefix=vi" group-title="FLIX TV - HIBURAN",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Okey_RTM.png" group-title="INDONESIA",OkeyTV
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
