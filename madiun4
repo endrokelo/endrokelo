@@ -1246,22 +1246,6 @@ http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
 
 
-====================LIVE SPORTS====================
-
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png" group-logo="https://i.ibb.co/sVKC4wB/Live-Sports.png" group-title="LIVE SPORTS",OPTUS SPORT 1
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3309|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png" group-title="LIVE SPORTS",OPTUS SPORT 2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3310|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png" group-title="LIVE SPORTS",OPTUS SPORT 3
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3311|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/693fja1595133458.png" group-title="LIVE SPORTS",SKY SPORT MOTO GP
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/4049|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/349px-BRI_Liga_1.svg.png" group-title="LIVE SPORTS",BRI LIGA 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://testfunctionlive.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c34L5s1/Mola.png" group-logo="https://i.ibb.co/c34L5s1/Mola.png" group-title="MOLA",MOLA LIVE EVENT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
