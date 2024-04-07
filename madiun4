@@ -8,15 +8,6 @@ Indonesia
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="INDONESIA", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA",Indosiar HD
-https://cdnjkt4.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="INDONESIA", INDOSIAR Liga 1 HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
@@ -28,15 +19,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV 🇮🇩
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA" ,SCTV HD 
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", MOJI
 https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595465
