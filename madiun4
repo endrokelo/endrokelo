@@ -297,10 +297,19 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfor7nGlTddPteWVTatPzNp_UA2Cm6RMSrA&usqp=CAU" group-title="SPORT", TVRI Sports HD
 https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595547
 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="SPORT", TVRI SPORT 🇮🇩
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/cF69mdC/soccer.png", Soccer Channel
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.c/tCCZ1B6/soccer.png" group-title="SPORT", SOCCER CHANNEL
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -463,12 +472,56 @@ https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X49j4rk/Golf-Channel-TH.png" group-title="SPORT",Golf Channel Thailand
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png" group-title="SPORT", SETANTA SPORTS 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png" group-title="SPORT", SETANTA SPORTS 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png" group-title="SPORT", SETANTA SPORTS 1 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png" group-title="SPORT", SETANTA SPORTS 1 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpKYZrr/setantasp2.png" group-title="SPORT", SETANTA SPORTS 2 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpKYZrr/setantasp2.png" group-title="SPORT", SETANTA SPORTS 2 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jf7QwkY/vijuplusport.png" group-title="SPORT", Viju+ Sport 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
+
 
 
 Kids
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="KIDS", MY KIDZ
 http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",ANIMAX (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",ANIMAX (Sg)
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 tvg-id="Aniplus" group-title="KIDS" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", ANIPLUS(Indi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="KIDS", NICK JR
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
@@ -552,7 +605,9 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/bizkids.png", group-title="KIDS",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
-
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="KIDS", MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a007/index.m3u8
 
 
 
@@ -768,6 +823,15 @@ https://link.zozotv.xyz:443/Rina923/390023/302
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="MOVIES",Dunia Sinema (1080p)
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop
+http://iptvtree.net:8080/F14995/a84c0963/298526
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop 02
+http://iptvtree.net:8080/F14995/a84c0963/298527
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop 03
+http://iptvtree.net:8080/F14995/a84c0963/298528
+
 
 
 
@@ -788,6 +852,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8P6tkJz/outdoor.png" group-title="KNOWLEDGE",Outdoor
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|referer=https://www.visionplus.id
+
+#EXTINF:-1 tvg-logo="https://i.ibb.c/KskSH2F/NATIONAL-GEOGRAPHIC.png" group-title="KNOWLEDGE", NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.c/PFmJTZN/NATGEO-WILD.png" group-title="KNOWLEDGE", NATGEO WILD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.c/KskSH2F/NATIONAL-GEOGRAPHIC.png" group-title="KNOWLEDGE", NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -1139,6 +1221,161 @@ http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="RADIO",Ardan FM
+http://listento.ardanradio.com:1059/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="RADIO",Phoenix Radio Bali
+https://live.phoenixradiobali.com:8250/phoenixradio
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="RADIO",MGTRADIO
+http://stream.radbdg.net:8000/mgtradio.mp3
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="RADIO",Elshinta FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="RADIO",I Radio
+http://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="RADIO",Trax FM
+https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="RADIO",Cosmopolitan FM
+http://n02.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="RADIO",V RADIO
+http://202.147.199.100:8000/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="RADIO",Hitz FM
+https://s2.radio.co/s6929cb202/listen
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="RADIO",Brava FM
+http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="RADIO",Hard Rock FM
+http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="RADIO",Hard Rock FM Bandung
+http://stream.radiojar.com/fnex9bkswk8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="RADIO",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="RADIO",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Bali
+http://202.129.186.43:7028/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Jakarta
+https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpADolC.png" group-title="RADIO",MNC Trijaya FM Jakarta
+http://202.147.199.101:8000/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="RADIO",Motion Radio Jakarta
+https://streamingv2.shoutcast.com/motion-jakarta
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="RADIO",Female FM
+http://onlineradiobox.com/json/id/female/play
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="RADIO",Delta FM
+http://live.masima.cloud:9002/deltafm
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="RADIO",Bahana FM
+http://stream.bahanafm.co.id:8100/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="RADIO",EBS FM
+http://streaming.suzanafm.com:8100/;stream.nsv
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="RADIO",Elgangga FM
+http://onlineradiobox.com/json/id/sushi/play
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="RADIO",Geronimo FM
+http://live2.indostreamserver.com:8018/;
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="RADIO",Gajah Mada FM
+https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="RADIO",OZ Radio Jakarta
+https://s3.vinhostmedia.com:10995/;stream/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="RADIO",Magic 89.9
+https://stream.zeno.fm/fw1368t3vc9uv
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_14257686-118d-4a31-ac31-601075190c77" group-title="RADIO", 95.9 smart FM jakarta
+http://cast2.my-control-panel.com/proxy/radioso3/stream
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_60cf8889-689e-49e5-8f0b-992c0fa3f567" group-title="RADIO", Wawa Radio 101.2 FM
+http://xn--tmz.xn--6frz82g/streams
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_2d3a91e1-c7ed-4fbd-abd9-bd87893b874b" group-title="RADIO", 105.1 AZUL POP FM
+http://azulpop.ozelip.com/8006/stream
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_1bdb7538-d6af-4c77-ab1e-d51185aa9384" group-title="RADIO", 89.2 FM Jakarta, Campur sari
+http://a8.siar.us/listen/campursari/stream
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_a4e98f6e-e326-41eb-97a4-f5f477842fab" group-title="RADIO", Alternatif radio jakarta
+http://void.idserverhost.com/8016/stream
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_3f168d4c-cb55-40e3-aa08-871a77b6ffa9" group-title="RADIO", AXR Jakarta
+http://provisioning.streamtheworld.com/pls/AXR_JAKARTA.pls
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_b010bced-fa83-473b-9551-09602a7bc38e" group-title="RADIO", Beat Radio Indonesia
+http://streaming.radio.co/sf61c46912/listen
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_f6343a04-468e-4bd2-995a-fbb05d6bd573" group-title="RADIO", Classy FM
+http://c4.siar.us:10340/stream.mp3
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_44ce8cd2-158e-4def-be7a-49c45388a127" group-title="RADIO", Dengerin Musik Indonesia
+http://stream.denger.in:8888/dmi
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_c223d279-e73c-43a0-aff2-4c61c780eb9e" group-title="RADIO", Firza MPC Radio
+http://mpc1.mediacp.eu/stream/firzaradio
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_2abffaea-4080-466c-be51-c40acbbbd61a" group-title="RADIO", Jiz 89.5 FM
+http://pu.klikhost.com/proxy/jizfm/stream
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_c67d843c-89d6-4cbe-912e-17327973f18f" group-title="RADIO", KBR68H
+http://pu.klikhost.com:8056/kbr
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_35a9be4e-8082-4900-96fb-b54a9c0c6ecc" group-title="RADIO", Loker Musik Indonesia
+http://stream.lokermusik.com/listen/lokermusik/lokermusik
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_583d1a05-1ae2-44ad-9c84-e29cfc819ebe" group-title="RADIO", Megaswara Bogor
+http://live.mgstv.co.id:8002/1/;stream.mp3
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_87d75d90-3c0c-4d6b-8ad5-4e4d6f98a221" group-title="RADIO", MTV Indonesia
+http://stream.zeno.fm/pvvz3mrtsf9uv
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="RADIO",SLOW FM
+http://onlineradiobox.com/json/id/slow/play
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="RADIO",KIS ROCK
+http://onlineradiobox.com/json/id/kisrock/play
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM
+http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM SBY
+http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="RADIO",JAK FM
+http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
+http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist.m3u8
+http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="RADIO",KIS FM
+http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="RADIO",MOST RADIO
+http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
+http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w118038145.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="RADIO",Magic UK
+http://91.224.190.66:4263/bysid/26624
 
 
 
