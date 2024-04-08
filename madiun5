@@ -14,14 +14,26 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA",Indosiar
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00l/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV 🇮🇩
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a013/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", MOJI
 https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595465
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="INDONESIA",MOJI HD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a022/index.m3u8
  
 #EXTINF:-1 group-title="INDONESIA" tvg-id="mnctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -30,6 +42,10 @@ http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|refer
 
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/mnctv_new.png" group-title="INDONESIA", group-title="INDONESIA", MNCTV_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
+
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/798px-MNCTV_logo.png" group-title="INDONESIA",MNC TV FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a008/index.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -38,6 +54,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=
 
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/gtv_new.png" group-title="INDONESIA", group-title="INDONESIA", GTV_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/632.ts
+
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="INDONESIA",GTV FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00d/index.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -47,6 +67,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|refere
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="INDONESIA", group-title="INDONESIA", RCTI_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
 
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="INDONESIA",RCTI FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00a/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="INDONESIA", INEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -54,18 +78,28 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" group-title="INDONESIA", group-title="INDONESIA", iNEWS_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/633.ts
+
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="INDONESIA",iNEWS FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.226.232.196:8000/play/a01i/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="INDONESIA", TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w552338715_b744100_sleng.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="INDONESIA", TRANS7_Server 2
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
+
+
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png" group-title="INDONESIA",TRANS 7 FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a015/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="INDONESIA", TRANS TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="INDONESIA", TRANS TV 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="INDONESIA", TRANS TV HD
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
+#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/1200px-Logo_Trans_TV.png" group-title="INDONESIA",TRANS TV FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a016/index.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="INDONESIA", TRANSTV_Server 2
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/634.ts
@@ -75,14 +109,12 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/634.ts
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="INDONESIA", ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|referer=https://www.visionplus.id
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="INDONESIA",ANTV HD
-https://cdnjkt4.transvision.co.id:1004/live/master/3/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="INDONESIA", ANTV_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/636.ts
+
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="INDONESIA",ANTV FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a009/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -141,9 +173,6 @@ https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595459
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="INDONESIA", Metro TV_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/638.ts
 
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="INDONESIA", ANTV_Server 2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/636.ts
-
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Metro%20TV%20SD-FirstMedia-Chl-7.jpg" group-title="INDONESIA",Metro TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/metrotv.m3u8
 
@@ -190,6 +219,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="INDONESIA",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png",JTV 
+https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u8
 
 
 SPORT
@@ -297,10 +334,19 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfor7nGlTddPteWVTatPzNp_UA2Cm6RMSrA&usqp=CAU" group-title="SPORT", TVRI Sports HD
 https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595547
 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="SPORT", TVRI SPORT 🇮🇩
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/cF69mdC/soccer.png", Soccer Channel
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.ibb.c/tCCZ1B6/soccer.png" group-title="SPORT", SOCCER CHANNEL
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -457,11 +503,59 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="SPORT",Sharjah Sports TV (1080p)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Start.ru" tvg-logo="https://i.imgur.com/VBqVkno.png" group-title="SPORT",Старт (1080p)
-https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/kdr04z1502554338.png" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="SPORT",Sky Sports Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00054e48570403a8775b29a59941c88d:679d5a824c5a453e0a1e5a4277d94957
+https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsarena)/manifest_720.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X49j4rk/Golf-Channel-TH.png" group-title="SPORT",Golf Channel Thailand
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/kf0oba1502554875.png" group-title="SPORT",Sky Sports Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003b57625e371b38e5bc521c31c8b73:a0ae6a685272e8a04487b9fec0f38665
+https://linear001-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsaction)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/47d7os1502554865.png" group-title="SPORT",Sky Sports Cricket
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000543c0dc49b43c0e816c2a404249de:836c311dd132a49dbed1049d92800304
+https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportscricket)/manifest_720.mpd
+
+#EXTINF: -1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/lnd1p01502554851.png" group-title="SPORT",Sky Sports Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005598a4d0f91328444c6fcdea04acb:ab03caec7a18da1fa6a8f306d91715a1
+https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png" group-title="SPORT",Sky Sports Premier League
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
+https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png" group-title="SPORT",Sky Sports Main Event
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005fad32eb7fe7f488093e851d71c5f:6342118978914afbc5fec26e93168b64
+https://linear011-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/tqxrqx1433965330.png" group-title="SPORT",Sky Sports F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b57b9b4712e29641ac981ba8d3c2:ca13cdd1b96bf1877d2c7ad9ee37d52e
+https://linear005-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1024px-Sky_Sport_Tennis.svg.png" group-title="SPORT",Sky Sports Tennis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00031e6287c6dcf1a92cc7450d43f9b8:1ca909f079b6732c00d65f59d19b8d46
+https://linear038-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportstennis)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/tyqypy1433965234.png" group-title="SPORT",Sky Sports Golf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000506039e623144c5d5185b2abab5f1:1d9d6af28efaf8e835c66979004798e8
+https://linear008-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsgolf)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sports_Mix.png" group-title="SPORT",Sky Sports Mix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00052def539f4c65b1ddeb5ea4ea9003:4af118364d041875a8137c5839381cce
+https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skysportsmix)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jf7QwkY/vijuplusport.png" group-title="SPORT", Viju+ Sport 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
 
 
@@ -469,6 +563,22 @@ Kids
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="KIDS", MY KIDZ
 http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",ANIMAX (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",ANIMAX (Sg)
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 tvg-id="Aniplus" group-title="KIDS" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", ANIPLUS(Indi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="KIDS", NICK JR
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
@@ -531,9 +641,6 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png"  group-title="KIDS",  TOONCAST 
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="KIDS", ANIMAL PLANET
-http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="KIDS", ZOO MOO
 http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
 
@@ -552,7 +659,23 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/bizkids.png", group-title="KIDS",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png" group-title="KIDS", MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a007/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fun_Planet.png/1024px-Fun_Planet.png" group-title="KIDS",Fun Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJmZmZkNWJkYi0yNGI2LTQwNzctYjI0Yy00ZWRlY2FlYWJkZWYiLCJzZXNzaW9uSWQiOiJabVptWkRWaVpHSXRNalJpTmkwME1EYzNMV0l5TkdNdE5HVmtaV05oWldGaVpHVm1MR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRlJUUlV4RVVrMHNNVFk0TkRNNE1qTTVNaXhoYm1SeWIybGsiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="KIDS",Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=34
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZ4pGmk.png" group-title="KIDS",Toon Goggles Jr
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 
 
 
@@ -768,6 +891,15 @@ https://link.zozotv.xyz:443/Rina923/390023/302
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="MOVIES",Dunia Sinema (1080p)
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop
+http://iptvtree.net:8080/F14995/a84c0963/298526
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop 02
+http://iptvtree.net:8080/F14995/a84c0963/298527
+
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop 03
+http://iptvtree.net:8080/F14995/a84c0963/298528
+
 
 
 
@@ -788,6 +920,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8P6tkJz/outdoor.png" group-title="KNOWLEDGE",Outdoor
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|referer=https://www.visionplus.id
+
+#EXTINF:-1 tvg-logo="https://i.ibb.c/KskSH2F/NATIONAL-GEOGRAPHIC.png" group-title="KNOWLEDGE", NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.c/PFmJTZN/NATGEO-WILD.png" group-title="KNOWLEDGE", NATGEO WILD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.c/KskSH2F/NATIONAL-GEOGRAPHIC.png" group-title="KNOWLEDGE", NATIONAL GEOGRAPHIC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -863,8 +1013,14 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="KNOWLEDGE",Animal Planet 
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N00seOn.png" tvg-name="Pluto TV Animals" group-title="KNOWLEDGE",Pluto TV Animals
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXPjy3z/Animals.png" group-title="KNOWLEDGE",Animals
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kH414m4/BBC-Earth.png" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="KNOWLEDGE",BBC Earth
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870faelivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYKZzYC/PBS-Nature.png" group-title="KNOWLEDGE",PBS Nature
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/640a64bd73e013000893d4e0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-id="TVKesehatan.id" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="KNOWLEDGE",TV Kesehatan (1080p)
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
@@ -1093,6 +1249,680 @@ https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=
 
 
 
+VOD Manca
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPH8WAOpyxCg4OqOHq8Mb62Wwqg1uqdT0SQw&usqp=CAU" group-title="VOD MANCA",AntMan & The Wasp Quantumania (2023) Cam
+https://1w61yw.bn.files.1drv.com/y4m8UXhfIG370pBt4WSO5h6IFOuvwmraw5Y0RwaCweWGDM2aPTzpQTSPqMLHDRUtHoU4KhyY2kMIHjAgtR0vIf9VSJsoL4qb1VW6wXfO4OseNzTwxS0kAcLGwfnDPx7PdY-NL_FdyhExR9XhTvP9LWxGkYIh1EdFc471BHVqCWBns-fEAofXBScelmm9QliwtKf50z1aHHnKJim_2iOayKLcw
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Xt0q2bHBzd0/14035041647842474454_mq.jpg?v=63919330" group-title="VOD MANCA",Candy Land (2023)
+https://wxkrnw.bn.files.1drv.com/y4mrD8SmhFYCGWfa9dhm_KbSXiDH3bQTOuFtVIlQRH2wUR4v1-O5aDoBNZeqhWDKnK90flm1m0UL406TqjxYQOTfZKpRbXRcCSnGdl8hR3fE_QkgrafjAGKLsKte-YZ222_BpqXPZt4vf7BvCW45OGr6Q7yGksjoAu3dOx4lpz7t_f3JGYVvFpd86LaWviZz1PUvifQ2a96x0vGrKj8kPqNgw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1TVTSxbarRRFyd24dzYPy_N1VzyUfLL3eKA&usqp=CAU" group-title="VOD MANCA",Consecration (2023)
+https://1w4avw.bn.files.1drv.com/y4mXj6BDLNSK13_BlmYSRAXAXFHTSqAkNLPEQSo2x4LIpxKHzH1k4QhwrTOvn3wWVsqQybEPUlFvS81roSo1FFRlpdt8PDeR4cTKfElwHOHQDlZXhLzPz08G4OUERSp0jFCAgaON4yCVaFNSOOx_Uom74JfJfN-kcAOYVqkeaWDs5ZN0XR1Ig2EveThcGtdJuIp5EBn3i1H6AgSJfd0mhh_bw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpMcvoZz8oeo7vUGCKh1TIKQbW09h0Hyc-Q&usqp=CAU" group-title="VOD MANCA",Jung-E (2023)
+https://v9jsrq.bn.files.1drv.com/y4mIzWm6ep4dLlpJl5yidqxs4KMCY7jn702X2KPd7KP3ssVrPk6oacEY3bes9PEPh56RH9S4VZsbqyZunuJgRdWNfNlK96O-MjjFDusSnfDlgqrvfspAYxdpyN-gzF_IrrskC8Jh-st-KhHJQHHp9UKqc69Nu5BjvrY7yQr2qsTBo7O0XpCIid055xcpoPYsbJYJWDQg6vRJr8oV2DjfUvXWw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK07FNygIyiztFOa7FwY8JsRjPjJTN6_CU9w&usqp=CAU" group-title="VOD MANCA",Missing (2023)
+https://1uncpg.bn.files.1drv.com/y4mDH850VcBg2R2C5ivleS0mjjIP9zqdWTWbvHBKK5aeZnnakb97ad1QMFkcux63aL64UwAdE9VjwB5EODfgkAx6plmaB2nZytm1iHfnaaFmCiriRhkS0UoIlyHkBLyU11XtUS9feLVp3OcovNJSHiObjptohExmmVbHOhvGGgHTtquUjOU0f283H1N-CIQQ3HKwu6bUa-vcn3uO-efVjafVQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMV0JnsaohDhYoE_aLMOI8zIyz7Uhr2Er48A&usqp=CAU" group-title="VOD MANCA",Panther Swat (2023)
+https://osqqqa.bn.files.1drv.com/y4mY-uslm7LZjbUzNqDXfKhvlMh35DY_RZlX2UNmil6xc8bSY4A73ayRknCknz0TPw92Tl5XK90enhqpIrQOjk-btqK0HXZO84jQ9P_dvNK1hMTCYYH26yyDHOtnpThvObAX-gzCJu091GsuZSzidURzn_A3KLy-W0wUWf_w-ilJnaqN3X7B2_hMvqB5lNgk633EksXk5SfwVrwqQs0JVLVrg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuSOL-ZV4hd6OQPGSbJ6Qj9ulHxTvVN9YQg&usqp=CAU" group-title="VOD MANCA",House Party (2023)
+https://www.dropbox.com/s/k4ww0fi8co8wmtt/dzifp-housepart2023.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgH8R3zKl5RAyivUaQVcneVbimiOaG3CKwhw&usqp=CAU" group-title="VOD MANCA",John Wick Chapter 4 (2023)
+https://www.dropbox.com/s/6cayjjw87le2mea/dzifp-johnwick4.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2r9G8oGoZwP7Dpp24tJsiDuayeotkh5ExQ&usqp=CAU" group-title="VOD MANCA",Legions (2023)
+https://www.dropbox.com/s/dp9fgcucj73ch9i/D21.FUN-Legions-2023-1674958792.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://img7.cdn.cinoche.com/images/fe290c3d75e8a53c841f12edfe820b8a.jpg" group-title="VOD MANCA",Night Train (2023)
+https://www.dropbox.com/s/ctr2usfjv9bphwy/D21.FUN-Night-Train-2023-1674777782.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQF8XOSYAeR1V7TbOmLm-mHpu4t86Zayq-HA&usqp=CAU" group-title="VOD MANCA",Plane (2023)
+https://www.dropbox.com/s/bmvat7xcbxxvx4j/D21.FUN-Plane-2023-1675423071.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Peter_Pan_%26_Wendy_poster.png" group-title="VOD MANCA",Peterpan & Wendy (2023)
+https://www.dropbox.com/s/mg94zxkcfjoedvq/D21.FUN-Peter-Pan-Wendy-2023-1682681957.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHylI1lWr_n86mgJ7EKj7AwKTrwZ78XH813g&usqp=CAU" group-title="VOD MANCA",Supercell (2023)
+https://www.dropbox.com/s/rvofrvr53a2wva0/dzifp-supercell2023.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFa8mfPMJyfnxsiuAapEl0FfaM-CM3Fy48Q&usqp=CAU" group-title="VOD MANCA",The Devil Conspiracy (2023)
+https://www.dropbox.com/s/sivvl3w17h0n6d6/D21.FUN-The-Devil-Conspiracy-2023-1677941881.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AuyboR1pLnqgqV_L1uD8Rgz5rtU7GkMeRA&usqp=CAU" group-title="VOD MANCA",The Girl Who Escaped:The Kara Robinson Story (2023)
+https://nsg5bq.dm.files.1drv.com/y4mNjakybgeh-ZU6uq253IAlNMXwaeZZ_BfrU0ybWWPL1n_ftSCgNwc1_cjFH16oCmJvXZT6I5sILrmd4ZQqV7Ylsjg4OekVvpUUgtpqpONgGBDAEE64UvGfxqiKM3eQWsYWnHmWtLA46YuV0x9q8UBgy61Laszmz0G_dxQl5XTfvtT7KonaxJx0p3EOZCZ9uBGnNq3jhvfR8Wwk1JPyawN3A
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tQ3iY59mZUR2vwlW8NkBheBTlgd5Tu_jMg&usqp=CAU" group-title="VOD MANCA",The Ritual Killer (2023)
+https://rzwang.sn.files.1drv.com/y4mWM88yWuK8ZM-Uxp8O3OXlaLd1z1Yj371r2iiiHsfuN9bfvmcsYKCrGjFfybMT1ywIjznvgBADeAva2hMS2vfHGO4tyDDaNlg9LAmWaJn62OKog7kvtJwIZF3A5Am6tGICdJ6EwQ4dTgOdI5mTS8S2Bi6BnHxcVC7VJYu6YHlezJ3ODHkBFYO-kOMBcMuPd-HbqfYLSiRzhCg9qRLwMHoLA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lmPlqROh8byvjOs_nWpMMDX7_q3RIBsMTA&usqp=CAU" group-title="VOD MANCA",The Super Mario Bross Movie (2023)
+https://www.dropbox.com/s/jcq80k98w4al71r/driveid-160454-hdrip-1080-terbit21-com-the-super-mario-bros-movie-2023.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://asianwiki.com/images/f/f1/Stolen_Identity_Korean_Movie-p1.jpg" group-title="VOD MANCA",Unlocked (2023)
+https://www.dropbox.com/s/50xasxs7dpqp892/dzifp-unlocked2023.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqL8zEfnW61W5koZRS3UB6lTFa8bCY5AEjbg&usqp=CAU" group-title="VOD MANCA",We Have A Ghost (2023)
+https://os8ncq.bn.files.1drv.com/y4msw_INM7T5PYVeetJc4Yk5t78BXaBIjVgZ6LaxPaQ_KPjdetQN07WQMOwvKQAspuzoU5zuBHW0_IxQ6mjynZTo3bfEdUnOSFIxPtssgKda1hNi5xQa2mHya3JMiSRGJW9KtEKkDty3lWi2N3wneYfpEqmfOM6OsTyvMw9H8tsOqKDL1h9859iEQd_oGkl6C2jH1CpERhmqWDSXN2eKljXtw
+
+#EXTINF:-1 tvg-logo="https://bit.ly/mrtv-pic" group-title="VOD 2022",Supported By @DZIFP
+https://www.dropbox.com/s/v245s1tho5jl0gh/mrtvkuinfo.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6rh1c39fvie0d5x/dzifp-2037-2022pic.jpg?dl=1" group-title="VOD MANCA",2037 (2022)
+https://www.dropbox.com/s/h4mn0oyrexguotx/dzifp-2037-2022mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0aPnAc0ngN937zugzgL8-x8RAWDw7RDyRA&usqp=CAU"group-title="VOD MANCA",A Man Called Hero (2022)
+https://gwgubg.db.files.1drv.com/y4mHnAsj_zCGSf7_qfNDNU71K6fYMpd8RJUWmoc6g_TINRF44B28XJZm-1cZoslqNqwvH7SkfMYkN0sNv0to2YLqVSIitT-hIhsLjvC_emvi7MabctRWJJmDBft-etkHWZJz3pPWMyaIsVes1nrWho6WhDGmkzlyJSNO9ux79iArfTcKU_7kgDejsT6tfMX-wmIJwnd8tjQdq2ldXirskuyog
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZpQnBu4UFLZtDohP1mSZDuRHH8h2TcFRoIQ&usqp=CAU" group-title="VOD MANCA",A Man Called Otto (2022)
+https://www.dropbox.com/s/yxbgpqn7jf1txsv/Nonton%20Film%20A%20Man%20Called%20Otto%20%282022%29%20Sub%20Indo%20Lk21%20-%20INDOXXI-A%20Man%20Called%20O.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-qeHxj1m_wzYnwPd9mOHujJJdcn70cGH4g&usqp=CAU" group-title="VOD MANCA",Avatar (2022)
+https://ju4qxw.sn.files.1drv.com/y4mf07dCormcLGWYRn_rR8aB-5NNNlF1uohfQI3VcMPanpj6Pjd6dWORLfrhDCp5aCVMZlFQpTHlFa8Yf8PXROTIySSnYUzYMpLvt5HvR92aiOwzBfPAMo7oQJg1y_lmG3MOTsqGFt0DHtJrOEftp4v2wWq5zNxGOY5a9vwpBGPG2WY4pDzpa0wUXyBIUCLo0QrhRSOvgwZYH41W9dWLrJfzA
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/osbnfnb2ug3xtxi/dzifp-babysitter-2022pic.jpg?dl=1" group-title="VOD MANCA",Baby Sitter (2022)
+https://www.dropbox.com/s/498l4dou7ykxauj/dzifp-babysitter2022mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJMWlxALWZOc1LyF9Bzis7KpXdE9lywkyJA&usqp=CAU" group-title="VOD MANCA",BattleField : Fall Of The World (2022)
+https://www.dropbox.com/s/pco6pccpjhvvvvv/dzifp-battlefield22mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaPHZuK5LlBv7zAM3VamJBsLifardEntXfw&usqp=CAU" group-title="VOD MANCA",Beast (2022)
+https://www.dropbox.com/s/kslicm2mqmk265s/dzifp-beast22.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgw20FY_9YyREjL8qIbAsaRVKnaLWyZWYRQ&usqp=CAU" group-title="VOD MANCA",Black Adam (2022)
+https://h9yoya.am.files.1drv.com/y4mFwsvJUy9pjV6BFZzt_NQH_IkxfAcO9_7XDMGfsf-FbYdyx5zyea5mYLxhx8GtAOHdckhAjP4ThTKB0ppXpwzve56IxApPwqTyb1dSu6q_UB4AcLCKGMGhgGq-19Pq4QcXxNXv3F-zxGwChGry8KDskyL-NLHL88kN9FEgwOBhAr2MNLlDlRAKyKKxtrPSnBKf9PNBTziGX7ItoJX4W0Cig
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRpPWs6ORf208axptMMNZW-lJzIXVE9daHA&usqp=CAU"group-title="VOD MANCA",Boxing Champion Mother(2022) 
+https://rc7j1a.db.files.1drv.com/y4mNANtz_-DaauDZiNsPfmC8TEaib_aQJPvKLLaDWHSZEuAJJfEOZptjOMOc_JrmGMT8dpo5H7y9Rw77V3ipkDyw6wWagdlPZ5YNcxB4RoBpzK7rp04PPTcuqOUyFKnv8-0SY5677RV6GU0nTkBfvAvqnLfCUyFYa5A2zWv8yNwH5639MqZFiePgZW17_wi1cIJHX5qi7qRBDBKB1MYi9hPaw
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU5MGFhY2QtNDg2MC00MjExLWFiOTktOTkwMjI5ZjhlMzM0XkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_.jpg" group-title="VOD MANCA",Delivery By Christmast (2022)
+https://ekbyga.sn.files.1drv.com/y4m4NiZgg0UgXupct8gzrKLl3RV5X0juk3b2Ia50NTiNrtVZUPJ7HYDDl9QGIpSifiS8AFToA9cr-NFCuRe8GAwa2RoK3OjvWcfDbA9JL_qKD3875U7s0XvOxNn6K-tDhxvxfywtxy0YzJbp9gVm_IJZoD4zvmN9rGnKBpGc7sGeukkvfipM-S4nQFvYEABuum1MORLbMZhopRvBZJbWAsLLQ
+
+#EXTINF:-1 tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/12/film-demonic-christmas-tree-2022-lk21-d21.jpg" group-title="VOD MANCA",Demonic Christmas Tree (2022)
+https://ekyoag.sn.files.1drv.com/y4mC03ZJoswhF9pZw9pwL2XdZ4wQ2Nv7dtfIvHqVZ9HonF8hXgntJ9YG2JtUnnmjJhw380NWMFPogjlAAkV8ociR_HElEd0oYfr7AzMmZiOOJn47OWpaH-rxhZ1ixASZix314ho_sr7Pj4WDrYy4x8ZDsCfmgq108pNwUboZicRB7qE0dR48gIZ4nJQZWJpge_IsPtQoVrFDVTSlFz1ZzJmbg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0-9RDu3TIY6q8KRm9e-_hKDWflfnWyM8hg&usqp=CAU" group-title="VOD MANCA",Decibel (2022)
+https://ju7a0w.sn.files.1drv.com/y4mfz5K2c7KTA_XxjZSfUce3dKlGh-u4M-QwZMK0mcRijKHAUhT_WKAdcmCK94Nq5dM6JCjuJEIqw9RnOcDoYtwosSNaM_LY5CqReU5vrHsuCxWfPGlRCwUzDafEB0M-d1o4wf3RAyS3wU6iaxpYBoJ5-VPBqJQJ-bHrOOVe57vgUQ8UnnvP_sPiDLllQ3LLSMWwMpr38Xydk-QlUfNeuA-_g
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg" group-title="VOD MANCA",Doctor Strange in the Multiverse of Madness [HD] (2022)
+https://q4vukw.ch.files.1drv.com/y4mWl314iiKXe7ni1bfSb0p4uQjQ4KDKIPyR0aBM5XCwNDN-Ly0er1WuI7qhO6mnJKZkpJDKGZ1MbUcnYUoyn1lsSS6YzYHJEUowCvX5iN788nIOd9Ok2BkraHkjvpK4MfWKQjc602sSjanvE0WWaXMux5wEb-wjChyL3Z8UkO3V0ZbnYOK4kPLe7yznb0sSfHk_d-AfL3DUyNMldGCXm4XXw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnnkGXrSX2UVFi3psBjNSuZFHU7QAQZw7xOw&usqp=CAU" group-title="VOD MANCA",Do You Think Iam Sexy (2022)
+https://www.dropbox.com/s/dm9ddo85y4h7355/dzifp-douthinkimsexymov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-S07QgUSlQD7jhO1hQGvRabigeQwS0yY-0w&usqp=CAU" group-title="VOD MANCA",Emancipation (2022)
+https://232j4a.by.files.1drv.com/y4mAbdmWeM6JISRDpMdVSAanvwWphN87ye84jIQGslY2jn_UBy9P62wa__Lr23QpQE9P6ELH7x3VLUPPFD5EjMsFpbn0AyjS20IdUbAS3jlpaU92CellhouEzUO_yvZgNdcZB24B8e8oUyWcgIwKDJFuOVlFsFmwragIyPLvwTf88-zVMd1S2DfhPOcFvIk0I_2Gb8QVszzuP6fvc3yXnumHw
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/q77qpnhcn1cji9e/dzifp-emergencydeclarationpic.jpg?dl=1" group-title="VOD MANCA",Emergency Declaration (2022)
+https://www.dropbox.com/s/3stt3lwj155w9z9/dzifp-emergencydeclarationmov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cn7x24jt26e09cf/dzifp-failpic.jpg?dl=1" group-title="VOD MANCA",Fall (2022)
+https://www.dropbox.com/s/p1u2dur8ikkekj2/dzifp-fail.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Ln7Q0UeV2w-Y6Yrr6pHhW_WezS6pFK6fNA&usqp=CAU" group-title="VOD MANCA",Girl Friday (2022)
+https://qilfnw.db.files.1drv.com/y4mNQaZiwx8h84YfBqwiHlKE5D6BJr7XWPiTSWCgWAcvrMtAxPd6JYvwy9lBjraKS0id7X06sBZ7Lneh7WZnVoTWxC85niK9b4HOyTc6yYFdMhiGVRKOcYUhyO40_lFkwUeXbYKDGAHoO4KwRxiqMgmNiaN9neNIDsAGhgOmsrWm8eI2CwwY6ktSx4wXCj-VqS_bB6CUqrLoNEfNGU3B4NwPw
+
+#EXTINF:-1 tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/12/film-halimun-2022-lk21-d21.jpg" group-title="VOD MANCA",Halimun (2022)
+https://www.dropbox.com/s/75woq7pnb4wmp4f/dzifp-halimun2022.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3qc94olx5oi127n/dzifp-hansanrisingdragon.jpg?dl=1" group-title="VOD MANCA",Hansan Rising Dragon (2022)
+https://www.dropbox.com/s/3eww6jjha2sq0i0/dzifp-hansanrisingdragonMov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/a6mrkidofkqho87/dzifp-insidethemindofcatpic.jpg?dl=1" group-title="VOD MANCA",Inside The Mindset Of A Cat (2022)
+https://www.dropbox.com/s/ijvazsg2c4lt3u3/dzifp-insidethemindofacatmov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/12/film-killer-design-2022-lk21-d21.jpg" group-title="VOD MANCA",Killer Design (2022)
+https://www.dropbox.com/s/dqhtsottaiyq9m1/dzifp-killerdesign2022.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbICrw0FcucGF7SJ4Q3tW5DsEZqwXMIUjT1g&usqp=CAU" group-title="VOD MANCA",Mahlukat (2022)
+https://fuwnqw.db.files.1drv.com/y4mmaEiaYKkf2tkf7-PSUtQnbJYMcR3U6LqNIpXVtdixqr6Jf3c-cUfuTXwJP86fuTlW2s6GgoTmZ6NDoWX02fptDkJwUw9DOdirBbQ6Hfu8fE6pEXD3HRNd06MHyvSdu1DMw19BmDzpv98AR0eiT0nRFZoXyoJd_-EZ-y1U600T9jPzPnCryEhTw0qu8oedovTeaMXb1hqrhDUsi3BJFwYPQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUg5OmcM-5eNtXnC9VmpGNjKLPZH-RWhEjQ&usqp=CAU" group-title="VOD MANCA",Megan (2022)
+https://1unjqq.bn.files.1drv.com/y4mBlrdWrTgFP8Vtuz2oaJVP2-BZp7xKgtTd8ISbXn8UMISN5fqT4MES6CoUm0uJqgKcQzHs7NCEV7GZnec1qv7L6knuIpc6gxnFgwxS64Zz5RwP41evwQ-5J2X3Fnmk3nv3GdXLPyMpoaXK9IvsnedcAE1vAnBSweT5WlYRJtJMy0DbkO2vqE8BPS2AqHfP1vwggWX21RuIQo8GgX72WfN2A
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Morbius_%28film%29_poster.jpg/220px-Morbius_%28film%29_poster.jpg" group-title="VOD MANCA", Morbius (2022)
+https://h9yhgq.am.files.1drv.com/y4mrs7uGKhpXTaP178vnVDZXWj9bY8cHAkIQqambQ62-wp0uSFQpYzJFn0VSGvsgVa4zH_pdfLX51XLGsG7PuryW1hMvqcQskOrv_vpFU-cHOvYpgefzec6x0_oin6QZPROA_Fx1pgQoD6wUOs1D1dUD50UHe0vB0OZa_rXOOL1Vq88XwPq-k-BKBo8vK86YElLnojyC4ropOCtwxmyOZ3IRA
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qb774gqc2r37txl/dzifp-orphan-first-kill-2022pic.jpg?dl=1" group-title="VOD MANCA",Orphan First Kill (2022)
+https://www.dropbox.com/s/hn7x2edt7o1jc2y/dzifp-orphan-first-kill-2022mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/edRmta5mJHrnmRmcHiH3RVDtaZE.jpg" group-title="VOD MANCA",Runway 34 (2022)
+https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss/[SAVEFILM21.INFO] Runway 34 2022 Webrip 720P.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/jFwdKKDmgzKjZGFnSJma7I5XMpk.jpg" group-title="VOD MANCA",Sarkaru Vaari Paata (2022)
+https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss/Sarkaru Vaari Paata MBOM CHANNEL.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wbe0giocn7c6ofc/dzifp-seoulvibepic.jpg?dl=1" group-title="VOD MANCA",Seoul Vibe (2022)
+https://www.dropbox.com/s/zroppf9jsktrqpl/dzifp-seoulvibemov.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zSI_2RfKldrShIp8DLPk9EWnDCNg3kAzjA&usqp=CAU" group-title="VOD MANCA",Sugar (2022)
+https://www.dropbox.com/s/mig53ifo0k9ufs4/dzifp-sugar2022.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nloojh65ppatzsu/dzifp-theadmprojectpic.jpg?dl=1" group-title="VOD MANCA",The Adam Project (2022)
+https://www.dropbox.com/s/uu6w9xveddxg6yu/dzifp-theadamprojectmov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjybo-WjYZJPVMGd1YP2W212CEI_JgvMa6VQ&usqp=CAU" group-title="VOD MANCA",The Big Four (2022)
+https://v9hytq.bn.files.1drv.com/y4m2SI1NOoByt0GNwrUoJDihbrjPsFRXk8dCla9QREz5FOLxsuyIgGSm6mrOyZXj0wLOE4itpz-Nas8_tjv4kqbgmSISMRzMTBIfefpkyjxdsWP1qH8Q1Q3GuvL6QHKPp-2sZZBed5HNppkj-xq1s1mAVW0qCiL0s4ht-CFjJPKO1RfFE9rbUrq57FFwXs4NGA9pHKkiY1WiAb-3u57wTPVXg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRnS8FThdjcXLFkk4_W6iAWNSku2Jb1oq9g&usqp=CAU" group-title="VOD MANCA", The Closed Door (2022)
+https://m.vidio.com/videos/5159043/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/hv5cvrf0tsuc917/dzifp-the-escort-wife-2022pic.jpg?dl=1" group-title="VOD MANCA",The Escort Wife (2022)
+https://www.dropbox.com/s/v2jimnasur8e7al/dzifp-the-escort-wife-2022mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlLe0SGqRcwpb1P4HYU2XC2U-kbGC__icv_A&usqp=CAU" group-title="VOD MANCA",The Harbinger (2022)
+https://www.dropbox.com/s/9303eop0ma8sex9/dzifp-theharbinger22.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi7VeXT2JW0GjV38kxio4KlMcDEKfA_mFacQ&usqp=CAU" group-title="VOD MANCA",The Red Book Ritual (2022)
+https://lckodq.bl.files.1drv.com/y4mJc7WCDE1r5O291p2JFDq0eaYZPzwZO1NRv3y8R_Bk44fKOCmlcjtT6b8gQXQcElpFwUgkMTCx4dL5Opnp046CNarhTLzqtJHOTh1yoHOWz62qJXeKse-4Q-G9m3GndBLpRhXsW_CkdOSOoKpNjJjmpYw0kEnz_Jl9GQw4KY_FPv2UEW9GC60XFFKR4yVo3WwLeq7uOHZGWQQpMiS57hksA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYb9ezjGiXW6zRYFTa4s94XeUdPnnhSIkVWw&usqp=CAU"group-title="VOD MANCA",The Roundup (2022)
+https://wr2naw.am.files.1drv.com/y4md5C12kBc2BD9JzXNbAKdG_lAhGDs2HAjAVCHLg3qi1Scxq2Psg-LtYKa6eXTveqZh3zP4gSalN0PKxtqfHy3LybLu531G_JMW_V97Mm8VHD4VVTzEsY4ICFW561cIWd2f3Bi905OfXEBi0H7iBP5wwr2BklxS4DTODavxGJU20FBwZqZx0vyToY4C7OAIbFNuNLlRK60Fzp6cUONszEY5g
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9bexbcqyotmnmqn/dzifp-tinycinepic.jpg?dl=1" group-title="VOD MANCA",Tiny Cinema (2022)
+https://www.dropbox.com/s/0nth6640gsdl3pq/dzifp-tinycinem.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/puYMnAhpo3EL7y1cbA3ZlOxSeZh.jpg" group-title="VOD MANCA",Top Gun: Maverick (2022)
+https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss/Top Gun Maverick (2022) HDCAM - ZMovieZ.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/u98xr2on34elcei/dzifp-where-the-crawdads-sing-2022pic.jpg?dl=1" group-title="VOD MANCA",Where Crawdads Sing (2022)
+https://www.dropbox.com/s/xr2fmohn97mznbx/dzifp-Where%20the%20Crawdads%20Sing%20%282022%29mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/81lgp1qebcofewm/dzifp-zanox22.jpg?dl=1" group-title="VOD MANCA",Zanox (2022)
+https://www.dropbox.com/s/3rg3ja4a9kd9ztf/dzifp-zanox22mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://bit.ly/mrtv-pic" group-title="VOD MANCA",Supported By @DZIFP
+https://www.dropbox.com/s/v245s1tho5jl0gh/mrtvkuinfo.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQydAHQWWIts9NZP3b71cGsrFckwCEQeTGTtQ&usqp=CAU" group-title="VOD MANCA",Army Of Thieves (2021)
+https://www.dropbox.com/s/4yqbirhonvujsj6/driveid-132162-webdl-1080-terbit21-com-army-of-thieves-2021.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Encounter_poster.jpeg/220px-Encounter_poster.jpeg" group-title="VOD MANCA",Encounter (2021)
+https://www.googleapis.com/drive/v3/files/16PXCqg9yitNAoJGESRcV49aZPZCmMfLi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-UzLedrh7B1G6Z20EHpobIUlN2UR29KVNg&usqp=CAU" group-title="VOD MANCA",Ghostbusters:Afterlife (2021)
+https://1ummeq.bn.files.1drv.com/y4m5xqg2IwdGcXQDFuRxNOnFMdvcFGQlIougYyJiUwrlqu8AsjxQJone-E0LOZ4I7KUKcBd6X-Fi0ewmD1J7JeJcV7R9dkkfVIGS2AkY5RZgCI5lgSWnXWppooQOYySqVNUgOM2rAaaqM7GIsiJUrx3HL6wbivnxCtVWpHxUNUeEsfcfhnVy2dDZdw8lTYhWTQ5GgsXE1YSRlAjxNJ15AD9oQ
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/u3dlkqvcriaqkn8/dzifp-ratdisasterpic.jpeg?dl=1" group-title="VOD MANCA",Rat Disaster (2021)
+https://www.dropbox.com/s/15s73oravqe2ice/dzifp-ratdismov.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/01/film-tokyo-revengers-2021-lk21-d21.jpg" group-title="VOD MANCA", Tokyo Revengers (2021)
+https://www.dropbox.com/s/tuvgzlwven20bqo/dzifp-tokyo-revengers.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOAITU5INupt4_NKdiFUAMYD5yEU_DzbJrg&usqp=CAU" group-title="VOD MANCA", Yellow Dragon Village (2021)
+https://3vllhw.ch.files.1drv.com/y4mbP4pdtTtovHS9r27VS8i0csOgh7_sQnwQws0R-RTDuhxvnlaHHWYY_d8jcGE24dstRf-JhxnLEKjae_O4AanuZA-pll4dJTJm552cXUomk4C4lqKu0p_vr78EWx98f8S-0t0R7JHqSW0nd1T4g7VfO95ldlPfEMaNVf06cbE4XjQaP2Dg1qUtikxGOLexUJ-IFKHVbQ6WoaYfhjDvZ1plA
+
+#EXTINF:-1 tvg-logo="https://rc5iya.db.files.1drv.com/y4mC2bhkHadLfX57oSb0ud3ZaR3fqgI-YI6bCeJwjMYK1JPVu7SBLjRoShlNT8aa7DR4IFaJmouoC11BGHC7gXDCtOJ6xnorYA6c89nnhj6Omu1yJpAMA5GvKqxkfSkxeopkWSN7K5jn1OHAowtcd8A0_bftGEfOnt5RHmMpJnO2NG3is3uh74Nz3CYjhBvvP10t2PkapRh80nr127mk_HWYA" group-title="VOD MANCA",365 Days (2020)
+https://rc4zvg.db.files.1drv.com/y4mjW5KN3lvouxY8s3QaAB6lVPweSQga_wybVVZTU68Xikk0cP0NEyU-g5oDSLrA8PNECQF-pCaXwoqgfdj3NVTBUjs3KTjFXgGmgpQ4FWJqUtDgvMqqMj5HnvehylMxVUzlkjBJX4Op-7Mmd6aBvI6scfnav4qQs5m3lWoVgzts8aNm1kHmbFUuxcxdLZlMC3Zj5xq6LeT_DkWzcEJ-Pdovw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwIKZIZjrTPPnY0LfzWtdt1qAd8FncQKW5w&usqp=CAU" group-title="VOD MANCA",3G (2013)
+https://m.vidio.com/videos/5203886/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/mrtv-pic" group-title="VOD MANCA",Supported By @DZIFP
+https://www.dropbox.com/s/v245s1tho5jl0gh/mrtvkuinfo.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoErQeTNvsHtT9e5tsQ6Q5Eby6uTCjIJ2nUA&usqp=CAU" group-title="VOD MANCA",Alive (2020)
+https://lv2rbg.ph.files.1drv.com/y4mcwBj9BjHziVvHDvBa6Zq5cVYA6yNNjzuh51muXdUBJljR0sspQ2MTbu8xaYv2Lun-zDzS0AA_7bEkbT1Ki8K3YvDn6vruXvE-qTGjnwSYRoB7HrtDfd28_adh6_BwmINt_Mu0wbk5D-wljhT2NNAuWjDLB-P-GoDgflM2a9gB2L-b4qaBwyqgw63znvzXE-jln9Rx1xanysO2j8NvoB8fg
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zodDzU5hL._SY606_.jpg" group-title="VOD MANCA",Annabelle 2 (2017)
+https://ia801400.us.archive.org/35/items/SEREMM/gm21.Annabelle.2.Creation.2017.mp4
+
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/gIUGY3y2n5jifFMZZZXkCK4-LJYPbWEVW1Lt4GeObQs6UIHULJTs_ExHDUn1-9SLNTI4UAomvAmEQ9az3ov2fD25swERmnRmTICeLaDGFFAZm7dNiL28=s0-d" group-title="VOD MANCA",Annabelle Come Home (2019)
+https://ia801400.us.archive.org/35/items/SEREMM/gm21.live.Annabelle.Comes.Home.2019.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReekn8OhgNhZk2gLEhKsDC9Eq5hFyIL9bUcA&usqp=CAU" group-title="VOD MANCA",Anta Fazila (2018)
+https://m.vidio.com/videos/5151724/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOpneLmEgLyfv8qiHoRhJdh-yuCQ7qZNDbA&usqp=CAU" group-title="VOD MANCA",AntMan (2015)
+https://1w5q4g.bn.files.1drv.com/y4mSJm-GHomyGQWnLK83QUyn6IvfVwyhGyBVH2y-BQ0pPJZdChZOql49L-TTbaFqb6yNobmZt-S95zJmzQW3UvEqa4hGSXk6efEbPWmy1obNGHtzCVLDLtPmCCBdHzxjaPX_L5R1ajp5uwN8hkiC-aeHf0KqZG1BpKhU80Myxy1SokFJQtdEcV7A6MyMp4BZGr44cenc3z-4xaCYgBZ8Y2o4w
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6KwrbWG0NcsMkO4pKCzUvSI99Iv1TnKG5Q&usqp=CAU" group-title="VOD MANCA",AntMan & The Wasp (2018)
+https://1w5jpq.bn.files.1drv.com/y4m2JVRwVPMXxMTzaklJ01_RoQBJYXeJ4KWAb63UNTIPpex2_euIZRTGNRoEot_1NeLWOp6w6BZBcoHGlslyS_1qfxYnXQNIhbOP4T5Ac4xHx5dDhdKeB7qkEsx2CyjsFUR5dw0Y9bIRVnpFwVfCr4KE3x-Fg3qxfFzltty5jyYLIxLT_8vq2xliSlbAqdbgeuR3oi8Ids8Sh3Y5XQ15a384w
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUSAdYtsG5zleZ0bboOOFVRU3Q51zpRViXQ&usqp=CAU" group-title="VOD MANCA",antrum (2018)
+https://www.dropbox.com/s/jer0jgibfva5op9/driveid-104575-terbit21-com-antrum-the-deadliest-film-ever-made-2018.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsbuHlv4cs-jW4rTUEJBIc9aQ7hcJ6LXxTA&usqp=CAU" group-title="VOD MANCA",anunaki (2017)
+https://www.dropbox.com/s/k5r4eh4uw6s6ymh/driveid-125415-webrip-1080-terbit21-com-anunnaki-2018.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5c/Apocalypto_poster.jpg" group-title="VOD MANCA",Apocalypto (2016)
+https://www.dropbox.com/s/f4592lhkkj5l0kg/dzifp-apoclypto2016.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/Avengers_Endgame_poster.jpg" group-title="VOD MANCA",Avengers End Game (2019)
+https://pudfwg.sn.files.1drv.com/y4maU47cy_ilMXGoDyW5r166zR2b5G0c0w_LikE7iqNvOuDqrsZHer29Fs9Hzh4HYXzh3iV31AQcn2dcbtgqcfIwP_iqAoObfVf3J2r8LoPUz3cA9TnBFnmgdTZy8p6euXZ0Eu4oL_OdMVP7_ODknEt9Bn5Exwrzm6Z3w7jV4QOTWqdKoOB5OH-XU8XDDdY0aqW8EFO4luBMXnUvhZUCMzuzg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Best_of_Times_%282009%29_film_poster.jpg/220px-Best_of_Times_%282009%29_film_poster.jpg" group-title="VOD MANCA",Best of Times (2009)
+https://www.googleapis.com/drive/v3/files/1t8LQvHW-kUen31vk5JBvd5W20GyqUhCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/otwm27xwgke8orh/dzifp-brutalpic.jpg?dl=1" group-title="VOD MANCA",Brutal (2017)
+https://www.dropbox.com/s/bnr2dsisvl40yjm/dzifp-brutaljap.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfxQhYKM5JOfHNCYsQTN06EqUsYddfzMc99A&usqp=CAU" group-title="VOD MANCA",Captain America:The First Avenger (2011)
+https://1uonhq.bn.files.1drv.com/y4mwWdl2-ur3pHGdlxOieGMghH9TV4ILGYHkgDptmBJL_VOUONgcA2u96JHSfBBS_maTFhMS8NzMFNmCDAyuYwv-oSP2huSV3ANbcfiHbqEUt8H6qRbwSOwh01DzRZF9ro6vzcB2Cv7JeDC2wqIvbPv__ckftNxn36WlZNVhwj7uYf_CRMX7Vk2cR02Sy0ddUXgt_67iGdTgSmQXmqrWSZLYQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3F8qpV7spmZ-ODH0B7XdZEBoj9mOqNmzUQ&usqp=CAU" group-title="VOD MANCA",Captain America:Civil War (2016)
+https://q4uq8q.ch.files.1drv.com/y4m53raq3anFTfojalGdhouI7Nc2W-1OWS_xuF8LuNlE7fVlfEjkRw26KGRUaGhWucaV1830stMZnJ50KToJXxzAqzxN3Amsi99P2wC9GzDFjfsx7QaiK3EAiEJn4FZFv4j8-yQImsJpRsnfOevO4LRKf2SL319WYYLlZqkF3MruJz2udLiusCOfODewIgXd6PM7xtWZmo8tZnbX-yuHv2WIQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvYy1SSauDDD3--fHTjByaoLqeQr6UYyGvQ&usqp=CAU" group-title="VOD MANCA",Countdown (2012)
+https://www.googleapis.com/drive/v3/files/1RAqWtug7WmtmrfzwvohJG9_n9iXk1CCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMlitdKBsCob_PRjcQQdxt2-yPj2VGuVnGA&usqp=CAU" group-title="VOD MANCA",Clash Of Titans (2010)
+https://ekbddg.sn.files.1drv.com/y4mlHX-RMnJRUsi8PiEinWCHVjux0f28Whd2AE7eo5SsueAMYM5nWTJ9OPikA7ISdr7keA1K7pyk_IICT3JG0YHgQ8Zw3pBqIWnaTZwI6arkbJDgWc3YrIM2m7C7-RzDWgXvS1ML_-gvJexbKj3naIlmgotQSMEUZlo_JmN34IA3B5p5IPSM_AcjqQFRcIm4BLq98L4z0HxOYp8kTqeHd3Xuw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBiTxQddwGdoZfeTE9Lv4Bkeio64M__si3w&usqp=CAU" group-title="VOD MANCA",Close My Eyes (2017)
+https://m.vidio.com/videos/7029816/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTjA5zWGBIxJqlewv7SQSc42xOv4b_LJwkJg&usqp=CAU" group-title="VOD MANCA",Dorm (2006)
+https://www.googleapis.com/drive/v3/files/1L6HtY85Xt0lbPm6RqUsX8CoNadMdlQc_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/jfw2yf7aujmohr0/dzifp-drivencrazypic.jpg?dl=1" group-title="VOD MANCA",Driven Crazy (2019)
+https://www.dropbox.com/s/pbgj2ppo7lij53n/dzifp-drivencrazymov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsLMkQ4S4EbGpLacotepIEXrmk3KR21b_hjA&usqp=CAU" group-title="VOD MANCA",Escape Room (2017)
+https://m.vidio.com/videos/7023720/common_tokenized_playlist.m3u8?digest=-1d7be
+
+#EXTINF:-1 tvg-logo="https://ph9rxw.ch.files.1drv.com/y4mt54sMQYjMhOmX_U3dHKunGF4cA511Y00geHT0cX08CPuh3pMo1ZbcJFNBElr1bVm6qGQvIit8DhaSXzdZ-jrxUpV3t6gVBB47KS7me3RuVEWUJCHiy0vqORrYI0snVRxefxsviepZ6rHlbJHB79-CeyMdiaCdlgmTOoMbQz4LlsVg-mA0p5NKHbUk42JyVcRjZrbXRCJoHW-Ryjj8AT7lg" group-title="VOD MANCA",Fifty Shades Grey (2015)
+https://phphsa.ch.files.1drv.com/y4mQHOFTRyqqaEtQDoksmT5VcpXdw88BYn-qI-1Pa-E13IGeErXq-BkgdkqmcjduXuZKcjReEoSBBeUe0I4_6AHqPSar6eWIqE-fdC5SGbIFFd3KoL__paM5PjLdNwVHjgcyjauaZq-tkCgMTA4R_zJfpYMZ8DwMj-MKEbUNDQLtwkwlBLkZWLenELSvsnVK2bTtXeRmlZ7iri92zGlYWkLXQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf05Ga13P1JRojmDhOXJKgwWaSd7ybmOtnOA&usqp=CAU" group-title="VOD MANCA",Final Destenation (2000)
+https://www.dropbox.com/s/vybli0d77g2dhj0/driveid-123022-terbit21-com-final-destination-2000.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/piz2ncu70yknqlw/dzifp-girl-lost-a-hollywood-story-2020pic.jpg?dl=1" group-title="VOD MANCA",Girl Lost A Hollywood Story (2020)
+https://www.dropbox.com/s/sxsrkj8gvsx1psl/dzifp-girl-lost-a-hollywood-story-2020pic.jpg?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ta_nm05nFK5WD99r19LSCqrs87ByWXmX8w&usqp=CAU" group-title="VOD MANCA",Hello Mr.Billionaire (2018)
+https://www.dropbox.com/s/xgio0i3aodjvufx/dzifp-hellomrbillioner2018.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIpyo08BfCsrx8tmyelLj0fmi-fq8powTug&usqp=CAU"group-title="VOD MANCA",Heaven And Hell (Wong Jorn Pid) (2012) 
+https://cdn.jwplayer.com/manifests/LQyO9E5V.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEVBhLnvty1UFDLqSXCd1BNUWJQVZB40zpg&usqp=CAU" group-title="VOD MANCA",Iam Hero (2015)
+https://www.dropbox.com/s/yejssbcsmc5f2b3/dzifp-iamahero2015.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Immortals_poster.jpg" group-title="VOD MANCA",Immortals (2011)
+https://m.vidio.com/videos/2006203/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg" group-title="VOD MANCA", Iron Man (2008)
+https://dl.dropboxusercontent.com/s/wjygq8gdl6d9xb7/-%20Iron%20Man%20%282008%29%20jf.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/Iron_Man_2_poster.jpg" group-title="VOD MANCA", Iron Man 2 (2010)
+https://dl.dropboxusercontent.com/s/qdix7rehc2x52t2/-%20Iron%20Man%202%20%282010%29%20jf.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmGyZ0FFK0m4HHK5PjKAiGBp9gO_OBg70bDA&usqp=CAU" group-title="VOD MANCA", Iron Man 3 (2013)
+https://3vnmkw.ch.files.1drv.com/y4mo57RONqjUjzQ-jwOYJlydv9HpMqCKEijNP-jTce6e9kstl37Nw-sKqTGZE2XU4_P_antlTZ4CinYrmIqtdDWjyLwUgbdRkPy1TB_gR_BUSzwVUCCpElcxwD083yAFNbPN7rDIYuSxvRrgI4E9vmha4mNS0P_xEW2IahMaiy-BrFiNqnXOKGlO6KGU7cXTA35pH9x-Jmwoxa-iLUBu1N9HA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqURqD0BSNAHzrJqgfvL2JANFNzOKv0Y7ig&usqp=CAU" group-title="VOD MANCA",John Wick (2014)
+https://www.dropbox.com/s/gl6ctabivwp7fug/John%20Wick%20%282014%29%20-%20Gabut21%20Nonton%20Film%20Streaming%20Online%20Dunia21%20Layarkaca21.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJcneezR32yC6zcackktJCHT2ABYGszeJ6w&usqp=CAU" group-title="VOD MANCA",John Wick 2 (2017)
+https://www.dropbox.com/s/lvrcjbaeehtjjij/dzifp-johnwickchap2.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxtj5NfgmtjDsSGMkFDB1UCNCeEVAfigZ_PA&usqp=CAU" group-title="VOD MANCA",John Wick 3 (2019)
+https://www.dropbox.com/s/trtqyephtb3mmnc/john-wick-chapter-3-parabellum-2019%281%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2016/08/film-jurassic-park-1993.jpg" group-title="VOD MANCA",Jurassic Park (1993)
+https://e2ktna.by.files.1drv.com/y4maEexMaAAZ4YLeiOOkAwqdx3OESDKPfMvvTBToHXwmuzENR7D-VelDDkCWIwcypS-ke2ML5LCkOm_oEPh6LUXnVsko_klJInwABKy0h5O4peSFbEGExiToR4AEX_f03iqGi1_grcaPqFUL_ZlOdKMcMg1y6tdgc_SCgarUSccXq2OMfQq9GbBmwZaBOU_vZpq5NKy5zCK6KAcWnrhZP9O3w
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OEaS1gb-xZ6qGoy9X8PU4pNCXAf9t1369Q&usqp=CAU" group-title="VOD MANCA",Last Chance (2009)
+https://m.vidio.com/videos/5406729/common_tokenized_playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://rc5psq.db.files.1drv.com/y4mfIPaIswWzkWkNI-DHZLJvgUG89cLFaH3yaq7bfHU-aYQlS4yJcin1y_rj_s3aWpRiNOJ8zkNZJouiNE4qWFkPioJ7_8o__5qzncOT30RJYx6-ov-NlqEMrvmtyNu5frB6uC4N9d7V6IkDonEFppGqtndMDmImtX9cNRnarUMzIfHGDMQ0ZPWJrR3OwVabscC67TAieJdXoG44L_0qlgDJQ" group-title="VOD MANCA", Miracle In Cell No.7 Korea version (2013)
+https://rc6fxq.db.files.1drv.com/y4mbbOearWI5vZgbLLhHhSMRnP3MvAMOJT5Re1-BE6l7PpR30W2_uSrE4Rqg4YsWf5_BC1nCxPAvIYyoj-kY_2By30LofLZ8c7KAHgWmmg-IUU5FMTp1i7NbmHJXIPpMejhPijCqNEcAgCk6LqnF8kvg0nKqFUIHogl1DeR48BVlKVB3wgi685vj8J9CV40SfqBThdFiLflNdR9gCJN9v_gFw
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/eybzszU.jpg" group-title="VOD MANCA", Okja (2017)
+https://4prpea.by.files.1drv.com/y4mRJoyOVIWsmCya9Ja3p6fp_k3SioM1ZlaHnMm2lIjPbzqWsWdhZj4QwjwZ9M5jXEJHd558WE169RUkL_FiBRDJtaqUzCtygyKBdVbcH02x-4wAiNZEeMUt2Jc7gVV4-nu0PD3ezZwCnjgH6n5zd72lTzygR1_vwTnOOuKpexf-U7Wc9aNTnoLaP9_Jgq5Di9Fzk3OCBFeOD3rwNTEbmRVEw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNjbebV9Z1RJihjUCntBTem39Nq0eAt-raw&usqp=CAU" group-title="VOD MANCA",Operation Mekong (2016)
+https://v9htig.bn.files.1drv.com/y4mAb3gWPOBbTj9-hScyzY_9wEyDty4Co_pz5UbQNw8TXTmXaKe6ZRRf0mE7Iqi1_FzhDHlFPhtKprZQlBVOGQ_G51sLojQLDagKHa5nZdymE-Vtzusx8Qp141PTAWIjf1y6faSP2DpEH4Lz703pPAEBz4ckKEbD_sr-teLH1xSJCiLBqwvbmlFaGnEIWjVAi1NuOk6PFUELHU0BKomuuEmsg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Pacific_Rim_-_Uprising_%282018_film%29.jpg" group-title="VOD MANCA", Pacific Rim Uprising (2018)
+https://dl.dropboxusercontent.com/s/rinppgsy74iz7x8/%20-%20Pacific%20Rim%20Uprising%20%282018%29%20jf.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlWiRTqFN3AsJdhyWvApxC3A6znQcHXdH1A&usqp=CAU"group-title="VOD MANCA",Sanjana (2018)
+https://m.vidio.com/videos/5158390/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Skyscraper_%282018%29_film_poster.png" group-title="VOD MANCA", SKYSCRAPER (2018)
+https://dl.dropboxusercontent.com/s/vho2go25eggmjev/-%20Skyscraper%20%282018%29%20jf.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYST1pcCuE9Dx355Qdved_3hU-vLPlhoqDkQ&usqp=CAU" group-title="VOD MANCA",Slaxx (2020)
+https://wxisfa.bn.files.1drv.com/y4mvlsu581gstLAFJsQUNnqMMaNdoV0cUnzaFKDd3wrEKcm9EdwFQwWP3Y4UGT-y0nOIE0ITutfazAqsqRnt6qOKhrDqIsxz_Ci0ArfRikIJWT5LQZA2g92bNLCCUEp9TP0phjuFRdE8sJz375ZehTbQcI5vXtpRPk-WfjY3v4SzwGKXLdxWuEgQ7IOQukJpBMYW72zZBP0GM7MXmBwDZ2o2w
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8psqP_2kp5GTTBmWwqzg01iLxN16Gukii_g&usqp=CAU" group-title="VOD MANCA",Swordfish (2001)
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bU6nkTSbOpipHz8rpR8gcIQuhJeQu70tPw&usqp=CAU"group-title="VOD MANCA",Tai Hong2(Tai Hong Tai Hien) (2014)
+https://cdn.jwplayer.com/manifests/TQz63n4y.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MNFv2riwvonxUUS2On46xu1azKlhO5yhvQ&usqp=CAU"group-title="VOD MANCA",Take Me Home (2016)
+https://cdn.jwplayer.com/manifests/Pyq0hajt.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVc97hMF5trmbLebuwmz2Fc36GghM7ejpdcw&usqp=CAU" group-title="VOD MANCA", The Gangster, The Cops, The Devil (2019)
+https://wzc9ha.db.files.1drv.com/y4mcmwyIr70BxEm3JWm2E8cwGQ1TOlVc9QtXMF_SDeaTajHlL1dE1Cb6sCTanOEi5xWzLuSZ4IrdCq2VvVcwBZkxcGF65Sof9jd9LB39_r-96-ZwimSvu5j_qA5cfEWbvjbw_8txPsnUkWv-XzdFM97B7PdH_tGSCF25IvD_Ga0GEhE09MhRfbHR-Xkg6MIohS-vt3qiPyJlOSLVOVhccrZ1g
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEftvW529tdvwEvrKjKdLv3uN-za-5vtct4A&usqp=CAU"group-title="VOD MANCA",The Meat Grinder (Cheuuat Gaawn Chim) (2009)
+https://cdn.jwplayer.com/manifests/GfVm1Q4x.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/The_mummy.jpg" group-title="VOD MANCA", The Mummy (1999)
+https://2310cw.by.files.1drv.com/y4mXMfQn3Dg-avJvq9FW-guEAlFtH7mZzMwbjkpNyaZb9D3-0tRcDiUgCpMnVkAvpY6Caf-diVu8RiORClDHThWcjjPk4V0Y4ioUdEqu3A1qY_vthRbJw2Cy6T-EtlmymbQiZqC230BHe5cahgStu5cX82kNRWiygt7EVNtr1mydXjWPu0_oy_KVunpad4_PtzLvZNdl5HaFiRFTQlkePzZmA
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/The_Mummy_Returns_poster.jpg" group-title="VOD MANCA", The Mummy Return (2001)
+https://e2nppq.by.files.1drv.com/y4mslY73F_TV6pxcA57EA3lQG-z8SW5P910Y09ZiCQTub5DTFrjHlLZa6qLAxYPCbhq0bpnbWQueD5eUvwiJ6przTyQmt68m8k-4RyJyAarYU5DajUDACs8O__vHAAQX8A2Oqt1eY8A29q-E4vDk_aXot81LJ0tJzyjvnJZj4NlcHeerlIvi6R0GNLErv1voxPFxVM2R-yM_9QR59OZKW0FoQ
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrcaYafzZs16_HI9HPQqMGfHkPggOuTD4j_w&usqp=CAU" group-title="VOD MANCA", The Mummy : Tomb Of The Dragon Emperor (2008)
+https://e2npvw.by.files.1drv.com/y4m028tTPKwePVeXX7elqEzR6gL-zP9dElTIszqYdUjWrIs6x6Di2G6eNse90cBKYuQjprwSNapjfA7PaWM_ziAvOjnvImXeX1KzrQgNrCoiTca3yy-Oe3PwpbVgtQiKcMUbRXayA-XGgoPJ8WaTdSQF0XdvS4K5xL1R7N1R-xyLClBiiKLo3BfBjMjyZQ9nxzxCSHXFlQyV_pOCZ4i4J4oBA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt__CpMm3xuhamyquD3XIjHK2QpMNsLolJMg&usqp=CAU" group-title="VOD MANCA", The Equalizer 2 (2018)
+https://dl.dropboxusercontent.com/s/0tjkh8s85wnax1w/-%20The%20Equalizer%202%20%282018%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClgtmwYDmJ-aqS2-dwl0zxQT46rGv783fgQ&usqp=CAU" group-title="VOD MANCA", The Incredible Hulk (2008)
+https://dl.dropboxusercontent.com/s/ic4littizw9k2zm/-%20The%20Incredible%20Hulk%20%282008%29%20jf.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdZWC6NHhaFKHDAibAM8PylLqDp45mKzR_rw&usqp=CAU" group-title="VOD MANCA",The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcoecv1AdptFYKFAen9gIY72aobEC8qnxjrg&usqp=CAU" group-title="VOD MANCA",The Three Stooges (2000)
+https://www.dropbox.com/s/3mdp9b9zdra5zfi/driveid-137786-webrip-1080-terbit21-com-the-three-stooges-2000.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/D96200H.jpg" group-title="VOD MANCA", Tunnel (2016)
+https://www.dropbox.com/s/g7la5wx5a5ou8b0/dzifp-tunnel.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjG_Nea5yR91NMszZbVJbzkFgbLR_PuFGD0w&usqp=CAU" group-title="VOD MANCA", Unstoppable (2018)
+https://4ps0mw.by.files.1drv.com/y4mRvqku-Z-iI7TWP6nT_fcPQAgtQzsssfWQNBZcKAkyzfSusOCnz0s7t8Xb31_h6IpQRXannuxoW4L0YxEM3GMGY-8fTFUEm06tWQu2FkXjcEuP1GjN-dxZnColTnFKSBcRKAkMBBBuNRzefSr_3BOogx_l8YzHbR4yiF4D2TqbkOEUvoJ_1KyzsC19KmU5HDGo42297-PLQ7jdOVWeJFRxA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiU49ONa7pRc4Lv5n34MRY9BB8pfhdgHEX6w&usqp=CAU" group-title="VOD MANCA",Welcome Home (2019)
+https://m.vidio.com/videos/7024007/common_tokenized_playlist.m3u8?digest=-58279
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7jMv2OCyYzzlGCe6B_L0k6T771X73iCwuLg&usqp=CAU" group-title="VOD MANCA",Wish Upon (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+
+
+
+
+VOD KIDS
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/6doKB2T.jpg" group-title="VOD KIDS", Abominable (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495543
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" group-title="VOD KIDS", Aladin (1993)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495592
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgH6bGl2-Wz_1DkoNrCioTIGXIOK35n4xw2A&usqp=CAU" group-title="VOD KIDS", Alfa & Omega (2010)
+https://m.vidio.com/videos/2074374/common_tokenized_playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg" group-title="VOD KIDS", A'Shaun the Sheep Movie: Farmageddon (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495546
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRBWE-MPvKAhe2rS2D-m8BiIHFAZRSb4GXw&usqp=CAU" group-title="VOD KIDS",Baby Bos : Christmas Bonus (2022)
+https://ju7hgg.sn.files.1drv.com/y4mrysQ3-USHhLUV4fm89v-VRWrrPCuwpStaIFOgrQqvQbWrot_dEv4lLCxUDa0oo6Cps3N03EMSjD5_yaQyxLMW2s-W-G-QAeXGj_jHhJ5m6llBBuHGy1JhuVymiVELEp1ASOtilG_5dPAf0ef-G1oXEHggBRWGRPsC3ymCCNIpfv5xZFvImK6nT1d34EZASgsOr_r7d1rzCD2HkdtLwe6oA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf1914vPqqgiR7FkDEarlmszzYOtZGH8AxZQ&usqp=CAU" group-title="VOD KIDS",Barbie In The Nutcracker (2001)
+https://rniarg.am.files.1drv.com/y4ma15A3h8aAkLc87U5EwoEQ9imepob8Kh-XGcu2PjbdtUv6pnu-wsLweTQz6K96ipI4oGJjLlovXv-o7VHE7k8nwwz2JMM_gI-q7ykb4gJoLfjb_8Bl0qq1rqUdWOEY3KHrhqvcWIV8dCJ6Q-xBCXYz-ghJNrKSeSAf_37yk2xXG0gvawPZuHE0XwYerCGsv3Cwt5q0F_xc5sPIZT1Iix-Cw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRL5YEEUqz_K5KDBXC0l-y0eLW9F7Rtzaxg&usqp=CAU" group-title="VOD KIDS",Barbie : Mermaid Power 2022
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLm8Ts6kFGJgesDdOeGqtuwRFO3T9Knraz8Q&usqp=CAU" group-title="VOD KIDS",Batman n Superman : Battle Of The Super Sons 2022
+
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HmYjXF.jpg" group-title="VOD KIDS", Batman Ninja (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495547
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/nQBOzqA.jpg" group-title="VOD KIDS", Big Hero 6 (2014)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495544
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/JInxoDt.jpg" group-title="VOD KIDS", Bilal: A New Breed of Hero (2015)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495626
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BrceGo5.jpg" group-title="VOD KIDS", Brave (2012)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495545
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/kl80F2h.jpg" group-title="VOD KIDS", Cinderella the Cat (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495619
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg" group-title="VOD KIDS",Chip n Dale Rescue Rangers DUB INDO (2022)
+https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/NGEFILM21.Chip.n.Dale.Rescue.Rangers.2022.Dub.Indo.WEB-DL.720p.mp4
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/PWoYCT6.jpg" group-title="VOD KIDS", Coco (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495618
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rzs8qbxy69exp0x/dzifp-dcleaguepic.jpg?dl=1" group-title="VOD KIDS",DC-League Of Super Pets (2022)
+https://www.dropbox.com/s/aioyjrpnnicnd4n/dzifp-dcleague.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/u89e0K9.jpg" group-title="VOD KIDS", Dragon Nest: Warriors' Dawn (2014)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495568
+
+EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KKMYnZu.jpg" group-title="VOD KIDS", Dragon Quest: Your Story (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495594
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/MsnZYOa.jpg" group-title="VOD KIDS", Duck Duck Goose (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495617
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ivSLobG.jpg" group-title="VOD KIDS", Ejen Ali: The Movie (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495595
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Sw_fKgyKZGsgTZ0Dvjo4CEpbgzZb-FO2Ow&usqp=CAU" group-title="VOD KIDS",Fire Heart (2022)
+https://rngbuw.am.files.1drv.com/y4mnvLkYhhn97ItS4bVqwbN3mu3DULnqYZ6tJ1u7QV8_4AZb5eS1rBIRA88R-liXpNO9uFXOZ2sfCNaGYuQed92gf8U6xqI16Ue3Im9DS_pwhp7noWXeFm0UpN-tiag0SwlQo4DyaI0wZRcoSnAleDAh4Ga7JxWtRRNM-J4-8EWk60Q-dqjzWZ0zOjJjVQ5WhnkSbxemguK6FVz_YqH2VgAvA
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/gWE4ZKR.jpg" group-title="VOD KIDS", G-Force (2009)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495591
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoIXziSxIPdNe8hFDXflR40F-vhPP0T7Br5w&usqp=CAU" group-title="VOD KIDS", Home (2015)
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YAuVdml.jpg" group-title="VOD KIDS", Klaus (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495558
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyQZVn8XI5jzcfmjl8DKdYIsW_oHa35zg4zA&usqp=CAU" group-title="VOD KIDS",Lego Star Wars Summer Vacation (2022)
+https://dv8qla.am.files.1drv.com/y4mhkxGO9P-pmmxNykYdRT4x35IrjgJYmJIjPtebRr6AxlzVLE5Qvtw2y0hvZlBIHEL0suRMT3MQ4vJWW7RwPku6C0SzDRkKV5h9LxOjHHtKPBU8ai2E1FYKZa56Xdxt2Ib9mDkRSKawhLGKLaJIXPwYQD-ZV76WjVAduShXP6Lp8gzGcoLHOhH8DJh8rxJky_we1ZBCgkI15Wcj8IxNWI_5g
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8kjgm3608j7qoq1/dzifp-lightyearspic.jpg?dl=1" group-title="VOD KIDS",Lightyear (2022)
+https://www.dropbox.com/s/3ey2r1296b6kugc/dzifp-lightyearsmov.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EodiiFj.jpg" group-title="VOD KIDS", Lilo & Stitch (2002)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495579
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdArrp7XtEeXUjc3TAmLzJ5pp4jIyh2G6aFQ&usqp=CAU" group-title="VOD KIDS",Luck (2022)
+https://qinewg.db.files.1drv.com/y4mqIGcWtsLkKYQhyrEIRJSG2gs_ucQ-Rz9x_EryO8seytOGdRGeSkV9JxQOUbyiTeHMR-CwAmshsPfDS2ifxN5Yhm9Y-PubDrQooBSqanymSmDnZSk6KxMPUTWGVMABz8_EUfe9UGVikDS48BBVskaE5o-nxdfPutN80qfCZJAD_S57LvWKqt3a470pdD9m6EZIfQlpPK-txHLnRjq3U16gA
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HUIh40G.jpg" group-title="VOD KIDS", Luis and the Aliens (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495606
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxbD_OYtR2iVkzeVE3bofjcYpIDanMB_2gSw&usqp=CAU" group-title="VOD KIDS",Marmaduke 2022
+
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/h33B4m5.jpg" group-title="VOD KIDS", Mars Needs Moms (2011)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495593
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg" group-title="VOD KIDS", Monsters University (2013)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495552
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXNXpUJo00jkVL35XTSGmDrpHeNYTJqRI_w&usqp=CAU" group-title="VOD KIDS",Teen Titan Go! DC Super Hero Girls : Mayhem In The Multiverse 2022
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOALcFsgsBm7ZRdfTOYANnJ2Bg8sy6bisb2g&usqp=CAU" group-title="VOD KIDS",My Father's Dragon 2022
+
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/8FAkwIBnd5eGlSJBrJfJVMWAbhI.jpg" group-title="VOD KIDS", My Little Pony: The Movie (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495541
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BgYDlV3.jpg" group-title="VOD KIDS", Ne Zha (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495597
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7BM73j8.jpg" group-title="VOD KIDS", Next Gen (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495612
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdArrp7XtEeXUjc3TAmLzJ5pp4jIyh2G6aFQ&usqp=CAU" group-title="VOD KIDS",Night At Museum : Kahmunrah Rises Again 2022
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xUmHVVm.jpg" group-title="VOD KIDS", Onward (2020)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495596
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wnmgw67gnhq73if/dzifp-paws%20of%20fury.jpg?dl=1" group-title="VOD KIDS",Paws Of Fury (2022)
+https://www.dropbox.com/s/vjxmv7vu23diha8/dzifp-pawsoffurymov.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dYdsgjq.png" group-title="VOD KIDS", Peter Rabbit (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495582
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ymkau64d3xwo5at/dzifp-pinnochiopic.jpg?dl=1" group-title="VOD KIDS",Pinnochio (2022)
+https://www.dropbox.com/s/ekv28mz3l1rlv9u/dzifp-pinnochiomov.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/FEJLyE0.jpg" group-title="VOD KIDS", Playmobil: The Movie (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495581
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ooSS6ek.jpg" group-title="VOD KIDS", Ploey (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495620
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1ZO45Fg.jpg" group-title="VOD KIDS", Rabbit School - Guardians of the Golden Egg (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495605
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/kS9Ckkl.jpg" group-title="VOD KIDS", Racetime (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495614
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/hIbPFdg.jpg" group-title="VOD KIDS", Ralph Breaks the Internet (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495586
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9g6qcRzHM7NGnCT1Kz370DCOjq4NSw1fkZA&usqp=CAU" group-title="VOD KIDS",Scrooge : A Christmas Carol 2022
+
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5GGpZyZ.jpg" group-title="VOD KIDS", Spark: A Space Tail (2016)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495621
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/E7sPvZ2.jpg" group-title="VOD KIDS", Spider-Man: Into the Spider-Verse (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495615
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/slalaPk.jpg" group-title="VOD KIDS", Spies in Disguise (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495601
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/fSaLFvF.jpg" group-title="VOD KIDS", Steven Universe: The Movie (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495611
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/LrWJF1R.jpg" group-title="VOD KIDS", Superman: Red Son (2020)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495599
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/R0GwKBj.jpg" group-title="VOD KIDS", Tad: The Explorer (2012)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495570
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/cZGo5gT.jpg" group-title="VOD KIDS", Tarzan (2013)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495598
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/09NKdAq.jpg" group-title="VOD KIDS", The Addams Family (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495578
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tPDZ81o.jpg" group-title="VOD KIDS", The Animatrix (2003)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495587
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ar3OoG1.jpg" group-title="VOD KIDS", The Big Bad Fox and Other Tales (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495589
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KgEZwRW.jpg" group-title="VOD KIDS", The Boss Baby (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495627
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/a4EPNnZ.jpg" group-title="VOD KIDS", The Breadwinner (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495624
+
+#EXTINF: -1 tvg-logo="httpshttp://img.prntscr.com/img?url=https://i.imgur.com/iPBjM6y.jpg" group-title="VOD KIDS", The Emoji Movie (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495628
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4OtEB--vcdHR0OmE92R1zrsOEzCXV3UsYA&usqp=CAU" group-title="VOD KIDS", The Reef (2006)
+https://m.vidio.com/videos/2073961/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/j55g93cnf51hbxo/dzifp-theseabestpic.jpg?dl=1" group-title="VOD KIDS",The Sea Beast (2022)
+https://www.dropbox.com/s/7gpu900xg6vh365/dzifp-theseabeastmov.mp4?dl=1
+
+EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dfgGzkm.jpg" group-title="VOD KIDS", Throne of Elves (2016)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495562
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G2YFstX/tom-and-jerry.jpg" group-title="VOD KIDS", Tom And Jerry (2021)
+https://www.dropbox.com/s/9to19xl4idjrtvh/Tom-And-Jerry-2021-1614389078-720p.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/VRq7FPM.jpg" group-title="VOD KIDS", Trolled (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495607
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iIJrON9.jpg" group-title="VOD KIDS", Trolls (2016)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495577
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9kh7oB9.jpg" group-title="VOD KIDS", War of the Worlds: Goliath (2012)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495590
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8JOcZCv.jpg" group-title="VOD KIDS", White Snake (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495588
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/S1F4lse.jpg" group-title="VOD KIDS", Woody Woodpecker (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495625
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HhuFjaO.jpg" group-title="VOD KIDS", Wreck-It Ralph (2012)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495585
+
+
+
+
+
+
+
+
+=========================================== MUSIC ===========================================
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mictv.png" group-title="MUSIC",MIC TV
+https://v2.siar.us/mic/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="MUSIC",K Pop Channel
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+#https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="MUSIC",K Pop2 Channel
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" group-title="MUSIC",B4U MUSIC
+http://cdn2.pishow.tv/live/141/master.m3u8 
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdK9tsWJcPj6sRdU4YBY8WyokKTfZJa6S3pk-RYnIhzApJs9nEm_-4Wgtj&s=10" group-title="MUSIC",MUSIC INDIA
+http://cdn2.pishow.tv/live/135/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FjoNKc-GZmoSdOsaZZjO8ckqFv1DcVhAyih6zqy6dNgc3AaQPocl7x4&s=10" group-title="MUSIC", NAGASWARA DANGDUT
+https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595600
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FjoNKc-GZmoSdOsaZZjO8ckqFv1DcVhAyih6zqy6dNgc3AaQPocl7x4&s=10" group-title="MUSIC", NAGASWARA KOPLO
+https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595601
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FjoNKc-GZmoSdOsaZZjO8ckqFv1DcVhAyih6zqy6dNgc3AaQPocl7x4&s=10" group-title="MUSIC", Nagaswara Koplo
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FjoNKc-GZmoSdOsaZZjO8ckqFv1DcVhAyih6zqy6dNgc3AaQPocl7x4&s=10" group-title="MUSIC", NAGASWARA POP
+https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595602
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FjoNKc-GZmoSdOsaZZjO8ckqFv1DcVhAyih6zqy6dNgc3AaQPocl7x4&s=10" group-title="MUSIC", Nagaswara Pop
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="MUSIC",Citra Dangdut
+http://iptvtree.net:8080/F14995/a84c0963/247446
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTINF:-1 tvg-id="MTV LIVE - [Channel 148].id" group-title="MUSIC" tvg-logo="https://telegra.ph/file/3d40ceb0cbbf895b62bcb.png",MTV LIVE
+https://mangga-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="MTVLIVE" tvg-logo="https://telegra.ph/file/3d40ceb0cbbf895b62bcb.png" group-title="MUSIC",MTV LIVE
+http://iptv.prosto.tv:7000/ch126/video.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTINF:-1 tvg-id="MTV 90's - [Channel 149].id" group-title="MUSIC" tvg-logo="https://telegra.ph/file/0eb1eee9662483a4aa70e.png",MTV 90's
+https://mangga-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="MTVCLUB" tvg-logo="https://i.postimg.cc/J0vDynHG/download-16.png" group-title="MUSIC",MTV CLUB 
+http://iptv.prosto.tv:7000/ch125/video.m3u8
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://i.postimg.cc/1zvGKD8d/download-17.png" group-title="MUSIC",MTV 
+http://iptv.prosto.tv:7000/ch124/video.m3u8
+
+
+
+
+
+
 <=================================== Radio ===========================================>
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="RADIO",Hot FM
@@ -1139,6 +1969,193 @@ http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="RADIO",Ardan FM
+http://listento.ardanradio.com:1059/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="RADIO",Phoenix Radio Bali
+https://live.phoenixradiobali.com:8250/phoenixradio
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="RADIO",MGTRADIO
+http://stream.radbdg.net:8000/mgtradio.mp3
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="RADIO",Elshinta FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="RADIO",I Radio
+http://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="RADIO",Trax FM
+https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="RADIO",Cosmopolitan FM
+http://n02.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="RADIO",V RADIO
+http://202.147.199.100:8000/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="RADIO",Hitz FM
+https://s2.radio.co/s6929cb202/listen
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="RADIO",Brava FM
+http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="RADIO",Hard Rock FM
+http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="RADIO",Hard Rock FM Bandung
+http://stream.radiojar.com/fnex9bkswk8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="RADIO",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="RADIO",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Bali
+http://202.129.186.43:7028/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Jakarta
+https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpADolC.png" group-title="RADIO",MNC Trijaya FM Jakarta
+http://202.147.199.101:8000/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="RADIO",Motion Radio Jakarta
+https://streamingv2.shoutcast.com/motion-jakarta
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="RADIO",Female FM
+http://onlineradiobox.com/json/id/female/play
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="RADIO",Delta FM
+http://live.masima.cloud:9002/deltafm
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="RADIO",Bahana FM
+http://stream.bahanafm.co.id:8100/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="RADIO",EBS FM
+http://streaming.suzanafm.com:8100/;stream.nsv
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="RADIO",Elgangga FM
+http://onlineradiobox.com/json/id/sushi/play
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="RADIO",Geronimo FM
+http://live2.indostreamserver.com:8018/;
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="RADIO",Gajah Mada FM
+https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="RADIO",OZ Radio Jakarta
+https://s3.vinhostmedia.com:10995/;stream/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="RADIO",Magic 89.9
+https://stream.zeno.fm/fw1368t3vc9uv
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_14257686-118d-4a31-ac31-601075190c77" group-title="RADIO", 95.9 smart FM jakarta
+http://cast2.my-control-panel.com/proxy/radioso3/stream
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_60cf8889-689e-49e5-8f0b-992c0fa3f567" group-title="RADIO", Wawa Radio 101.2 FM
+http://xn--tmz.xn--6frz82g/streams
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_2d3a91e1-c7ed-4fbd-abd9-bd87893b874b" group-title="RADIO", 105.1 AZUL POP FM
+http://azulpop.ozelip.com/8006/stream
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_1bdb7538-d6af-4c77-ab1e-d51185aa9384" group-title="RADIO", 89.2 FM Jakarta, Campur sari
+http://a8.siar.us/listen/campursari/stream
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_a4e98f6e-e326-41eb-97a4-f5f477842fab" group-title="RADIO", Alternatif radio jakarta
+http://void.idserverhost.com/8016/stream
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_3f168d4c-cb55-40e3-aa08-871a77b6ffa9" group-title="RADIO", AXR Jakarta
+http://provisioning.streamtheworld.com/pls/AXR_JAKARTA.pls
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_b010bced-fa83-473b-9551-09602a7bc38e" group-title="RADIO", Beat Radio Indonesia
+http://streaming.radio.co/sf61c46912/listen
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_f6343a04-468e-4bd2-995a-fbb05d6bd573" group-title="RADIO", Classy FM
+http://c4.siar.us:10340/stream.mp3
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_44ce8cd2-158e-4def-be7a-49c45388a127" group-title="RADIO", Dengerin Musik Indonesia
+http://stream.denger.in:8888/dmi
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_c223d279-e73c-43a0-aff2-4c61c780eb9e" group-title="RADIO", Firza MPC Radio
+http://mpc1.mediacp.eu/stream/firzaradio
+
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_2abffaea-4080-466c-be51-c40acbbbd61a" group-title="RADIO", Jiz 89.5 FM
+http://pu.klikhost.com/proxy/jizfm/stream
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_c67d843c-89d6-4cbe-912e-17327973f18f" group-title="RADIO", KBR68H
+http://pu.klikhost.com:8056/kbr
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_35a9be4e-8082-4900-96fb-b54a9c0c6ecc" group-title="RADIO", Loker Musik Indonesia
+http://stream.lokermusik.com/listen/lokermusik/lokermusik
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_583d1a05-1ae2-44ad-9c84-e29cfc819ebe" group-title="RADIO", Megaswara Bogor
+http://live.mgstv.co.id:8002/1/;stream.mp3
+#EXTINF:-1 tvg-logo="http://32fvhj3.257.cz/ycast/icon?id=RB_87d75d90-3c0c-4d6b-8ad5-4e4d6f98a221" group-title="RADIO", MTV Indonesia
+http://stream.zeno.fm/pvvz3mrtsf9uv
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="RADIO",SLOW FM
+http://onlineradiobox.com/json/id/slow/play
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="RADIO",KIS ROCK
+http://onlineradiobox.com/json/id/kisrock/play
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM
+http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM SBY
+http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="RADIO",JAK FM
+http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
+http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist.m3u8
+http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="RADIO",KIS FM
+http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="RADIO",MOST RADIO
+http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
+http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w118038145.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="RADIO",Magic UK
+http://91.224.190.66:4263/bysid/26624
+
+
+====================LIVE SPORTS====================
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-logo="https://i.ibb.co/sVKC4wB/Live-Sports.png" group-title="LIVE SPORTS",ASTRO SUPERSPORT 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="LIVE SPORTS",ASTRO SUPERSPORT 2 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="LIVE SPORTS",ASTRO SUPERSPORT 3 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="LIVE SPORTS",ASTRO SUPERSPORT 4 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIVE SPORTS",beIN Sports 1
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/4039|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="LIVE SPORTS",beIN Sports 3
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/4040|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/644-wbg-e.png" group-title="LIVE SPORTS",beIN Sports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG" group-title="LIVE SPORTS",beIN Sports Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="LIVE SPORTS",beIN Sports Xtra En Español
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png" group-title="LIVE SPORTS",OPTUS SPORT 1
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3309|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png" group-title="LIVE SPORTS",OPTUS SPORT 2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3310|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fa072d4-33eb-4c31-808e-e95a77c7786a_340x340.png" group-title="LIVE SPORTS",OPTUS SPORT 3
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3311|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/693fja1595133458.png" group-title="LIVE SPORTS",SKY SPORT MOTO GP
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/4049|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 
 
