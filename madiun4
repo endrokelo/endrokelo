@@ -14,14 +14,26 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA",Indosiar
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00l/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV 🇮🇩
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a013/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="INDONESIA", MOJI
 https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595465
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="INDONESIA",MOJI HD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a022/index.m3u8
  
 #EXTINF:-1 group-title="INDONESIA" tvg-id="mnctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -30,6 +42,10 @@ http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|refer
 
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/mnctv_new.png" group-title="INDONESIA", group-title="INDONESIA", MNCTV_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
+
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/798px-MNCTV_logo.png" group-title="INDONESIA",MNC TV FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a008/index.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -38,6 +54,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=
 
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/gtv_new.png" group-title="INDONESIA", group-title="INDONESIA", GTV_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/632.ts
+
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="INDONESIA",GTV FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00d/index.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -47,6 +67,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|refere
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="INDONESIA", group-title="INDONESIA", RCTI_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
 
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="INDONESIA",RCTI FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00a/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="INDONESIA", INEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -54,18 +78,28 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" group-title="INDONESIA", group-title="INDONESIA", iNEWS_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/633.ts
+
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="INDONESIA",iNEWS FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://103.226.232.196:8000/play/a01i/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="INDONESIA", TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w552338715_b744100_sleng.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="INDONESIA", TRANS7_Server 2
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
+
+
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png" group-title="INDONESIA",TRANS 7 FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a015/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="INDONESIA", TRANS TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="INDONESIA", TRANS TV 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="INDONESIA", TRANS TV HD
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
+#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/1200px-Logo_Trans_TV.png" group-title="INDONESIA",TRANS TV FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a016/index.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="INDONESIA", TRANSTV_Server 2
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/634.ts
@@ -75,14 +109,12 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/634.ts
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="INDONESIA", ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|referer=https://www.visionplus.id
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="INDONESIA",ANTV HD
-https://cdnjkt4.transvision.co.id:1004/live/master/3/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="INDONESIA", ANTV_Server 2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/636.ts
+
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="INDONESIA",ANTV FHD 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a009/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -141,9 +173,6 @@ https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595459
 #EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="INDONESIA", Metro TV_HD
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/638.ts
 
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="INDONESIA", ANTV_Server 2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/636.ts
-
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Metro%20TV%20SD-FirstMedia-Chl-7.jpg" group-title="INDONESIA",Metro TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/metrotv.m3u8
 
@@ -190,6 +219,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="INDONESIA",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png",JTV 
+https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u8
 
 
 SPORT
@@ -1172,6 +1209,43 @@ https://www.googleapis.com/drive/v3/files/1-nq7vMNv6q_7agU0I5R6D_jg98RZPGFs?alt=
 https://www.googleapis.com/drive/v3/files/1RiEfRSR55paBJwJjy6__oo8RHAnFpvLy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD INDO",Zodiac: Apa Bintangmu?
 https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+=========================================== MUSIC ===========================================
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mictv.png" group-title="MUSIC",MIC TV
+https://v2.siar.us/mic/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="MUSIC",K Pop Channel
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+#https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="MUSIC",K Pop2 Channel
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" group-title="MUSIC",B4U MUSIC
+http://cdn2.pishow.tv/live/141/master.m3u8 
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdK9tsWJcPj6sRdU4YBY8WyokKTfZJa6S3pk-RYnIhzApJs9nEm_-4Wgtj&s=10" group-title="MUSIC",MUSIC INDIA
+http://cdn2.pishow.tv/live/135/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Nagaswara Dangdut
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC", Nagaswara Koplo
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC", Nagaswara Pop
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="MUSIC",Citra Dangdut
+http://iptvtree.net:8080/F14995/a84c0963/247446
+
+
+
+
 
 
 
