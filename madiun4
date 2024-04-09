@@ -8,21 +8,12 @@ Indonesia
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="INDONESIA", INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="INDONESIA", INDOSIAR Liga 1 HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
-
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA",Indosiar
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
-
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR FHD 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.226.232.196:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV 🇮🇩
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV FHD 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -40,9 +31,6 @@ http://103.226.232.196:8000/play/a022/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|referer=https://www.visionplus.id
 
-#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/mnctv_new.png" group-title="INDONESIA", group-title="INDONESIA", MNCTV_HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/631.ts
-
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/798px-MNCTV_logo.png" group-title="INDONESIA",MNC TV FHD 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.226.232.196:8000/play/a008/index.m3u8
@@ -51,9 +39,6 @@ http://103.226.232.196:8000/play/a008/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/12/84162435.jpg" group-title="INDONESIA", Global TV
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=https://www.visionplus.id
-
-#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/gtv_new.png" group-title="INDONESIA", group-title="INDONESIA", GTV_HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/632.ts
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="INDONESIA",GTV FHD 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -64,9 +49,6 @@ http://103.226.232.196:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4urMukgFxOsmKR06xskG4LzwSbtbwosJ0oQ&usqp=CAU" group-title="INDONESIA", RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referer=https://www.visionplus.id
 
-#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="INDONESIA", group-title="INDONESIA", RCTI_HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/630.ts
-
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://img.inews.co.id/files/img/streaming/logorcti_2018.png" group-title="INDONESIA",RCTI FHD 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.226.232.196:8000/play/a00a/index.m3u8
@@ -76,19 +58,12 @@ http://103.226.232.196:8000/play/a00a/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|referer=https://www.visionplus.id
 
-#EXTINF: -1 tvg-logo="https://img.inews.co.id/files/img/streaming/inewstv_new.png" group-title="INDONESIA", group-title="INDONESIA", iNEWS_HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/633.ts
-
 #EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="INDONESIA",iNEWS FHD 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://103.226.232.196:8000/play/a01i/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="INDONESIA", TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w552338715_b744100_sleng.m3u8
-
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="INDONESIA", TRANS7_Server 2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/623.ts
-
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://sidatlabas.com/wp-content/uploads/2021/06/Logo-Trans-7.png" group-title="INDONESIA",TRANS 7 FHD 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -101,16 +76,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.226.232.196:8000/play/a016/index.m3u8
 
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="INDONESIA", TRANSTV_Server 2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/634.ts
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="INDONESIA", ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|referer=https://www.visionplus.id
-
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="INDONESIA", ANTV_Server 2
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/636.ts
 
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="INDONESIA",ANTV FHD 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -120,12 +89,6 @@ http://103.226.232.196:8000/play/a009/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|referer=https://www.visionplus.id
-
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="INDONESIA", TVONE HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/635.ts
-
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="INDONESIA", NET_HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/637.ts
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.ibb.co/4FZRKkn/net.png" group-title="INDONESIA", NET. 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -138,9 +101,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="INDONESIA", RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8?app_type=web&amp;userid=jjj&amp;chname=RTV
 
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="INDONESIA", RTV_HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/640.ts
- 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://github.com/endrisusilo/endro/blob/main/jtv.jpg?raw=true" group-title="INDONESIA", JTV
@@ -156,12 +116,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="INDONESIA", KOMPASTV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Kompas%20TV%20SD-FirstMedia-Chl-15.jpg" group-title="INDONESIA",Kompas TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/kompastv.m3u8
-
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="INDONESIA", Kompas TV_HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/639.ts
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="INDONESIA", METRO TV
@@ -169,12 +123,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|re
 
 #EXTINF: -1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4783ff58da/dd0e5afbeb2b4a7e802b4fbacce14991.png" group-title="INDONESIA", METRO TV HD
 https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595459
-
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="INDONESIA", Metro TV_HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/638.ts
-
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Metro%20TV%20SD-FirstMedia-Chl-7.jpg" group-title="INDONESIA",Metro TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/metrotv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -693,9 +641,6 @@ MOVIES
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES",HBO 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-logo="https://i.ibb.co/VL0Pp2D/TV-BOX.png" group-title="MOVIES",HBO HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/2.ts
-
 #EXTINF:-1 tvg-id="HBOAsiaHD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="MOVIES",HBO (1080p)
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 
@@ -707,13 +652,6 @@ https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="MOVIES",HBO Hits HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/3.ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO Family HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/5.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -732,12 +670,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/4.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uB76Ft0.png" group-title="MOVIES",Cinemax HD
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/6.ts
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1308,6 +1240,9 @@ https://www.dropbox.com/s/50xasxs7dpqp892/dzifp-unlocked2023.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqL8zEfnW61W5koZRS3UB6lTFa8bCY5AEjbg&usqp=CAU" group-title="VOD MANCA",We Have A Ghost (2023)
 https://os8ncq.bn.files.1drv.com/y4msw_INM7T5PYVeetJc4Yk5t78BXaBIjVgZ6LaxPaQ_KPjdetQN07WQMOwvKQAspuzoU5zuBHW0_IxQ6mjynZTo3bfEdUnOSFIxPtssgKda1hNi5xQa2mHya3JMiSRGJW9KtEKkDty3lWi2N3wneYfpEqmfOM6OsTyvMw9H8tsOqKDL1h9859iEQd_oGkl6C2jH1CpERhmqWDSXN2eKljXtw
 
+#EXTINF:-1 tvg-logo="https://bit.ly/mrtv-pic" group-title="VOD 2022",Supported By @DZIFP
+https://www.dropbox.com/s/v245s1tho5jl0gh/mrtvkuinfo.mp4?dl=1
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6rh1c39fvie0d5x/dzifp-2037-2022pic.jpg?dl=1" group-title="VOD MANCA",2037 (2022)
 https://www.dropbox.com/s/h4mn0oyrexguotx/dzifp-2037-2022mov.mp4?dl=1
 
@@ -1431,6 +1366,9 @@ https://www.dropbox.com/s/xr2fmohn97mznbx/dzifp-Where%20the%20Crawdads%20Sing%20
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/81lgp1qebcofewm/dzifp-zanox22.jpg?dl=1" group-title="VOD MANCA",Zanox (2022)
 https://www.dropbox.com/s/3rg3ja4a9kd9ztf/dzifp-zanox22mov.mp4?dl=1
 
+#EXTINF:-1 tvg-logo="https://bit.ly/mrtv-pic" group-title="VOD MANCA",Supported By @DZIFP
+https://www.dropbox.com/s/v245s1tho5jl0gh/mrtvkuinfo.mp4?dl=1
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQydAHQWWIts9NZP3b71cGsrFckwCEQeTGTtQ&usqp=CAU" group-title="VOD MANCA",Army Of Thieves (2021)
 https://www.dropbox.com/s/4yqbirhonvujsj6/driveid-132162-webdl-1080-terbit21-com-army-of-thieves-2021.mp4?dl=1
 
@@ -1454,6 +1392,9 @@ https://rc4zvg.db.files.1drv.com/y4mjW5KN3lvouxY8s3QaAB6lVPweSQga_wybVVZTU68Xikk
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwIKZIZjrTPPnY0LfzWtdt1qAd8FncQKW5w&usqp=CAU" group-title="VOD MANCA",3G (2013)
 https://m.vidio.com/videos/5203886/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/mrtv-pic" group-title="VOD MANCA",Supported By @DZIFP
+https://www.dropbox.com/s/v245s1tho5jl0gh/mrtvkuinfo.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoErQeTNvsHtT9e5tsQ6Q5Eby6uTCjIJ2nUA&usqp=CAU" group-title="VOD MANCA",Alive (2020)
 https://lv2rbg.ph.files.1drv.com/y4mcwBj9BjHziVvHDvBa6Zq5cVYA6yNNjzuh51muXdUBJljR0sspQ2MTbu8xaYv2Lun-zDzS0AA_7bEkbT1Ki8K3YvDn6vruXvE-qTGjnwSYRoB7HrtDfd28_adh6_BwmINt_Mu0wbk5D-wljhT2NNAuWjDLB-P-GoDgflM2a9gB2L-b4qaBwyqgw63znvzXE-jln9Rx1xanysO2j8NvoB8fg
@@ -1652,6 +1593,12 @@ https://ju7hgg.sn.files.1drv.com/y4mrysQ3-USHhLUV4fm89v-VRWrrPCuwpStaIFOgrQqvQbW
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf1914vPqqgiR7FkDEarlmszzYOtZGH8AxZQ&usqp=CAU" group-title="VOD KIDS",Barbie In The Nutcracker (2001)
 https://rniarg.am.files.1drv.com/y4ma15A3h8aAkLc87U5EwoEQ9imepob8Kh-XGcu2PjbdtUv6pnu-wsLweTQz6K96ipI4oGJjLlovXv-o7VHE7k8nwwz2JMM_gI-q7ykb4gJoLfjb_8Bl0qq1rqUdWOEY3KHrhqvcWIV8dCJ6Q-xBCXYz-ghJNrKSeSAf_37yk2xXG0gvawPZuHE0XwYerCGsv3Cwt5q0F_xc5sPIZT1Iix-Cw
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRL5YEEUqz_K5KDBXC0l-y0eLW9F7Rtzaxg&usqp=CAU" group-title="VOD KIDS",Barbie : Mermaid Power 2022
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLm8Ts6kFGJgesDdOeGqtuwRFO3T9Knraz8Q&usqp=CAU" group-title="VOD KIDS",Batman n Superman : Battle Of The Super Sons 2022
+
+
 #EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HmYjXF.jpg" group-title="VOD KIDS", Batman Ninja (2018)
 https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495547
 
@@ -1724,6 +1671,12 @@ https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495593
 #EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg" group-title="VOD KIDS", Monsters University (2013)
 https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495552
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXNXpUJo00jkVL35XTSGmDrpHeNYTJqRI_w&usqp=CAU" group-title="VOD KIDS",Teen Titan Go! DC Super Hero Girls : Mayhem In The Multiverse 2022
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOALcFsgsBm7ZRdfTOYANnJ2Bg8sy6bisb2g&usqp=CAU" group-title="VOD KIDS",My Father's Dragon 2022
+
+
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/8FAkwIBnd5eGlSJBrJfJVMWAbhI.jpg" group-title="VOD KIDS", My Little Pony: The Movie (2017)
 https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495541
 
@@ -1732,6 +1685,8 @@ https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495597
 
 #EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7BM73j8.jpg" group-title="VOD KIDS", Next Gen (2018)
 https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495612
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdArrp7XtEeXUjc3TAmLzJ5pp4jIyh2G6aFQ&usqp=CAU" group-title="VOD KIDS",Night At Museum : Kahmunrah Rises Again 2022
 
 #EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xUmHVVm.jpg" group-title="VOD KIDS", Onward (2020)
 https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495596
@@ -1759,6 +1714,9 @@ https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495614
 
 #EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/hIbPFdg.jpg" group-title="VOD KIDS", Ralph Breaks the Internet (2018)
 https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495586
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9g6qcRzHM7NGnCT1Kz370DCOjq4NSw1fkZA&usqp=CAU" group-title="VOD KIDS",Scrooge : A Christmas Carol 2022
+
 
 #EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5GGpZyZ.jpg" group-title="VOD KIDS", Spark: A Space Tail (2016)
 https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495621
