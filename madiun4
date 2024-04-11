@@ -673,7 +673,7 @@ MOVIES
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES",HBO 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", group-title="Movies",HBO HD (Mewatch Feed) 
+#EXTINF:-1 group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", group-title="MOVIES",HBO HD (Mewatch Feed) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
@@ -690,7 +690,7 @@ https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122", group-title="Movies",HBO HITS HD (Mewatch Feed) 
+#EXTINF:-1 group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122", group-title="MOVIES",HBO HITS HD (Mewatch Feed) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
@@ -704,7 +704,7 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES",HBO Family 
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png", group-title="Movies",HBO FAMILY HD (Mewatch Feed) 
+#EXTINF:-1 group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png", group-title="MOVIES",HBO FAMILY HD (Mewatch Feed) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c 
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
@@ -718,7 +718,7 @@ https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.m
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature 
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-id="hbohdsignature.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO SIGNATURE (Mewatch Feed) 
+#EXTINF:-1 tvg-id="hbohdsignature.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO SIGNATURE (Mewatch Feed) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9 
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd 
@@ -1310,7 +1310,7 @@ https://www.dropbox.com/s/v245s1tho5jl0gh/mrtvkuinfo.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6rh1c39fvie0d5x/dzifp-2037-2022pic.jpg?dl=1" group-title="VOD MANCA",2037 (2022)
 https://www.dropbox.com/s/h4mn0oyrexguotx/dzifp-2037-2022mov.mp4?dl=1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0aPnAc0ngN937zugzgL8-x8RAWDw7RDyRA&usqp=CAU"group-title="VOD MANCA",A Man Called Hero (2022)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0aPnAc0ngN937zugzgL8-x8RAWDw7RDyRA&usqp=CAU" group-title="VOD MANCA",A Man Called Hero (2022)
 https://gwgubg.db.files.1drv.com/y4mHnAsj_zCGSf7_qfNDNU71K6fYMpd8RJUWmoc6g_TINRF44B28XJZm-1cZoslqNqwvH7SkfMYkN0sNv0to2YLqVSIitT-hIhsLjvC_emvi7MabctRWJJmDBft-etkHWZJz3pPWMyaIsVes1nrWho6WhDGmkzlyJSNO9ux79iArfTcKU_7kgDejsT6tfMX-wmIJwnd8tjQdq2ldXirskuyog
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZpQnBu4UFLZtDohP1mSZDuRHH8h2TcFRoIQ&usqp=CAU" group-title="VOD MANCA",A Man Called Otto (2022)
@@ -1331,7 +1331,7 @@ https://www.dropbox.com/s/kslicm2mqmk265s/dzifp-beast22.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgw20FY_9YyREjL8qIbAsaRVKnaLWyZWYRQ&usqp=CAU" group-title="VOD MANCA",Black Adam (2022)
 https://h9yoya.am.files.1drv.com/y4mFwsvJUy9pjV6BFZzt_NQH_IkxfAcO9_7XDMGfsf-FbYdyx5zyea5mYLxhx8GtAOHdckhAjP4ThTKB0ppXpwzve56IxApPwqTyb1dSu6q_UB4AcLCKGMGhgGq-19Pq4QcXxNXv3F-zxGwChGry8KDskyL-NLHL88kN9FEgwOBhAr2MNLlDlRAKyKKxtrPSnBKf9PNBTziGX7ItoJX4W0Cig
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRpPWs6ORf208axptMMNZW-lJzIXVE9daHA&usqp=CAU"group-title="VOD MANCA",Boxing Champion Mother(2022) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRpPWs6ORf208axptMMNZW-lJzIXVE9daHA&usqp=CAU" group-title="VOD MANCA",Boxing Champion Mother(2022) 
 https://rc7j1a.db.files.1drv.com/y4mNANtz_-DaauDZiNsPfmC8TEaib_aQJPvKLLaDWHSZEuAJJfEOZptjOMOc_JrmGMT8dpo5H7y9Rw77V3ipkDyw6wWagdlPZ5YNcxB4RoBpzK7rp04PPTcuqOUyFKnv8-0SY5677RV6GU0nTkBfvAvqnLfCUyFYa5A2zWv8yNwH5639MqZFiePgZW17_wi1cIJHX5qi7qRBDBKB1MYi9hPaw
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU5MGFhY2QtNDg2MC00MjExLWFiOTktOTkwMjI5ZjhlMzM0XkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_.jpg" group-title="VOD MANCA",Delivery By Christmast (2022)
@@ -1415,7 +1415,7 @@ https://www.dropbox.com/s/9303eop0ma8sex9/dzifp-theharbinger22.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi7VeXT2JW0GjV38kxio4KlMcDEKfA_mFacQ&usqp=CAU" group-title="VOD MANCA",The Red Book Ritual (2022)
 https://lckodq.bl.files.1drv.com/y4mJc7WCDE1r5O291p2JFDq0eaYZPzwZO1NRv3y8R_Bk44fKOCmlcjtT6b8gQXQcElpFwUgkMTCx4dL5Opnp046CNarhTLzqtJHOTh1yoHOWz62qJXeKse-4Q-G9m3GndBLpRhXsW_CkdOSOoKpNjJjmpYw0kEnz_Jl9GQw4KY_FPv2UEW9GC60XFFKR4yVo3WwLeq7uOHZGWQQpMiS57hksA
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYb9ezjGiXW6zRYFTa4s94XeUdPnnhSIkVWw&usqp=CAU"group-title="VOD MANCA",The Roundup (2022)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYb9ezjGiXW6zRYFTa4s94XeUdPnnhSIkVWw&usqp=CAU" group-title="VOD MANCA",The Roundup (2022)
 https://wr2naw.am.files.1drv.com/y4md5C12kBc2BD9JzXNbAKdG_lAhGDs2HAjAVCHLg3qi1Scxq2Psg-LtYKa6eXTveqZh3zP4gSalN0PKxtqfHy3LybLu531G_JMW_V97Mm8VHD4VVTzEsY4ICFW561cIWd2f3Bi905OfXEBi0H7iBP5wwr2BklxS4DTODavxGJU20FBwZqZx0vyToY4C7OAIbFNuNLlRK60Fzp6cUONszEY5g
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9bexbcqyotmnmqn/dzifp-tinycinepic.jpg?dl=1" group-title="VOD MANCA",Tiny Cinema (2022)
@@ -1532,7 +1532,7 @@ https://www.dropbox.com/s/sxsrkj8gvsx1psl/dzifp-girl-lost-a-hollywood-story-2020
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ta_nm05nFK5WD99r19LSCqrs87ByWXmX8w&usqp=CAU" group-title="VOD MANCA",Hello Mr.Billionaire (2018)
 https://www.dropbox.com/s/xgio0i3aodjvufx/dzifp-hellomrbillioner2018.mp4?dl=1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIpyo08BfCsrx8tmyelLj0fmi-fq8powTug&usqp=CAU"group-title="VOD MANCA",Heaven And Hell (Wong Jorn Pid) (2012) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIpyo08BfCsrx8tmyelLj0fmi-fq8powTug&usqp=CAU" group-title="VOD MANCA",Heaven And Hell (Wong Jorn Pid) (2012) 
 https://cdn.jwplayer.com/manifests/LQyO9E5V.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEVBhLnvty1UFDLqSXCd1BNUWJQVZB40zpg&usqp=CAU" group-title="VOD MANCA",Iam Hero (2015)
@@ -1577,7 +1577,7 @@ https://v9htig.bn.files.1drv.com/y4mAb3gWPOBbTj9-hScyzY_9wEyDty4Co_pz5UbQNw8TXTm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Pacific_Rim_-_Uprising_%282018_film%29.jpg" group-title="VOD MANCA", Pacific Rim Uprising (2018)
 https://dl.dropboxusercontent.com/s/rinppgsy74iz7x8/%20-%20Pacific%20Rim%20Uprising%20%282018%29%20jf.mp4?dl=1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlWiRTqFN3AsJdhyWvApxC3A6znQcHXdH1A&usqp=CAU"group-title="VOD MANCA",Sanjana (2018)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlWiRTqFN3AsJdhyWvApxC3A6znQcHXdH1A&usqp=CAU" group-title="VOD MANCA",Sanjana (2018)
 https://m.vidio.com/videos/5158390/common_tokenized_playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Skyscraper_%282018%29_film_poster.png" group-title="VOD MANCA", SKYSCRAPER (2018)
@@ -1589,16 +1589,16 @@ https://wxisfa.bn.files.1drv.com/y4mvlsu581gstLAFJsQUNnqMMaNdoV0cUnzaFKDd3wrEKcm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8psqP_2kp5GTTBmWwqzg01iLxN16Gukii_g&usqp=CAU" group-title="VOD MANCA",Swordfish (2001)
 http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bU6nkTSbOpipHz8rpR8gcIQuhJeQu70tPw&usqp=CAU"group-title="VOD MANCA",Tai Hong2(Tai Hong Tai Hien) (2014)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bU6nkTSbOpipHz8rpR8gcIQuhJeQu70tPw&usqp=CAU" group-title="VOD MANCA",Tai Hong2(Tai Hong Tai Hien) (2014)
 https://cdn.jwplayer.com/manifests/TQz63n4y.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MNFv2riwvonxUUS2On46xu1azKlhO5yhvQ&usqp=CAU"group-title="VOD MANCA",Take Me Home (2016)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MNFv2riwvonxUUS2On46xu1azKlhO5yhvQ&usqp=CAU" group-title="VOD MANCA",Take Me Home (2016)
 https://cdn.jwplayer.com/manifests/Pyq0hajt.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVc97hMF5trmbLebuwmz2Fc36GghM7ejpdcw&usqp=CAU" group-title="VOD MANCA", The Gangster, The Cops, The Devil (2019)
 https://wzc9ha.db.files.1drv.com/y4mcmwyIr70BxEm3JWm2E8cwGQ1TOlVc9QtXMF_SDeaTajHlL1dE1Cb6sCTanOEi5xWzLuSZ4IrdCq2VvVcwBZkxcGF65Sof9jd9LB39_r-96-ZwimSvu5j_qA5cfEWbvjbw_8txPsnUkWv-XzdFM97B7PdH_tGSCF25IvD_Ga0GEhE09MhRfbHR-Xkg6MIohS-vt3qiPyJlOSLVOVhccrZ1g
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEftvW529tdvwEvrKjKdLv3uN-za-5vtct4A&usqp=CAU"group-title="VOD MANCA",The Meat Grinder (Cheuuat Gaawn Chim) (2009)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEftvW529tdvwEvrKjKdLv3uN-za-5vtct4A&usqp=CAU" group-title="VOD MANCA",The Meat Grinder (Cheuuat Gaawn Chim) (2009)
 https://cdn.jwplayer.com/manifests/GfVm1Q4x.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/The_mummy.jpg" group-title="VOD MANCA", The Mummy (1999)
