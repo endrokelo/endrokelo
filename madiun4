@@ -196,7 +196,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u
 SPORT
 
 
-#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/raw/main/sport.avif" group-title="SPORT"
+#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/sport.jpg?raw=true" group-title="SPORT"
 
 #EXTINF: -1 tvg-logo="https://anutv.xyz/gambar/premier.png" group-title="SPORT", PREIMER SPORT 1
 https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595661
@@ -543,6 +543,8 @@ https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 
 Kids
 
+#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/kidz.png?raw=true" group-title="KIDS"
+
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="KIDS", MY KIDZ
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
@@ -668,6 +670,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 MOVIES
 
 
+
+#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/movies.jpg?raw=true" group-title="MOVIES"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -956,6 +960,8 @@ http://iptvtree.net:8080/c4596f70/c3848d92/298529
 KNOWLEDGE
 
 
+#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/knowledge.jpg?raw=true" group-title="KNOWLEDGE"
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdHt5Qb/afn.png" group-title="KNOWLEDGE",Afn
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
 
@@ -1085,6 +1091,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.
 VOD INDO
 
 
+#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/film%20indone.png?raw=true" group-title="VOD INDO"
 
 #EXTINF:-1 group-title="VOD INDO",12 Cerita Glen Anggara
 https://www.googleapis.com/drive/v3/files/1RJyBA6pjWdt0ArTcZVIy0g4j0icpsFfR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1298,6 +1305,9 @@ https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=
 
 
 VOD Manca
+
+
+#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/film%20manca.jpg?raw=true" group-title="VOD MANCA"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPH8WAOpyxCg4OqOHq8Mb62Wwqg1uqdT0SQw&usqp=CAU" group-title="VOD MANCA",AntMan & The Wasp Quantumania (2023) Cam
 https://1w61yw.bn.files.1drv.com/y4m8UXhfIG370pBt4WSO5h6IFOuvwmraw5Y0RwaCweWGDM2aPTzpQTSPqMLHDRUtHoU4KhyY2kMIHjAgtR0vIf9VSJsoL4qb1VW6wXfO4OseNzTwxS0kAcLGwfnDPx7PdY-NL_FdyhExR9XhTvP9LWxGkYIh1EdFc471BHVqCWBns-fEAofXBScelmm9QliwtKf50z1aHHnKJim_2iOayKLcw
@@ -1691,6 +1701,9 @@ http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3
 
 VOD KIDS
 
+
+#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/kids-movie-logo-template-vector-33983351.jpg?raw=true" group-title="VOD KIDS"
+
 #EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/6doKB2T.jpg" group-title="VOD KIDS", Abominable (2019)
 https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495543
 
@@ -1911,6 +1924,9 @@ https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495585
 
 
 =========================================== MUSIC ===========================================
+
+#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/music.png?raw=true" group-title="MUSIC"
+
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mictv.png" group-title="MUSIC",MIC TV
 https://v2.siar.us/mic/live/playlist.m3u8
 
@@ -1972,6 +1988,9 @@ http://iptv.prosto.tv:7000/ch124/video.m3u8
 
 
 <=================================== Radio ===========================================>
+
+
+#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/radio.jpg?raw=true" group-title="RADIO"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="RADIO",Hot FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
