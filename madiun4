@@ -2252,6 +2252,7 @@ https://live.mocdn.tv/out/v1/94dfdc818b124449bfcce06c2e6dde8d/manifest_L1.mpd
 
 BRI LIGA 1
 
+#EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##"
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
