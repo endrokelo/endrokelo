@@ -1033,6 +1033,8 @@ http://iptvtree.net:8080/c4596f70/c3848d92/298529
 
 =========================================== RELIGI ===========================================
 
+#EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/religi.jpg?raw=true" group-title="RELIGI"
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
