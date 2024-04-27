@@ -328,55 +328,15 @@ SPORT
 
 #EXTINF:-1 group-logo="https://github.com/endrokelo/endrokelo/blob/main/SPORTS1.jpg?raw=true" group-title="SPORT"
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMeuvQ9w0Icdff-qpkVqibdZhegmlX2_c1A&usqp=CAU" group-title="SPORT", Astro Sport 2
-https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595660
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMeuvQ9w0Icdff-qpkVqibdZhegmlX2_c1A&usqp=CAU" group-title="SPORT", Astro Sport 3
-https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595661
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMeuvQ9w0Icdff-qpkVqibdZhegmlX2_c1A&usqp=CAU" group-title="SPORT", Astro Sport 4
-https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595662
-
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="SPORT",Premier Sports 1
-http://202.21.104.6:88/sps-prime/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="SPORT",Premier Sports 2
-http://202.21.104.6:88/sps-play/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="SPORT", PREIMER SPORT 2
-https://anutv.xyz/live/epl/premier1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="SPORT",Premier Sports 3
-http://202.21.104.6:88/sps-world/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="SPORT",Premier Sports 4
-http://202.21.104.6:88/sps-action/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="SPORT",Premier Sports 5
-http://202.21.104.6:88/sps-plus/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/premier.png" group-title="SPORT", ARENA SPORT 3
-https://anutv.xyz/live/epl/premier2.m3u8
-
-#EXTINF:-1 tvg-id="Futbol.tj" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="SPORT",Futbol PREIMER
-https://live.teleradiocom.tj/8/3m.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV1-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPORT",SPOTV (720p)
-http://202.150.161.68/spotv1/index.m3u8
-   
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|referer=https://www.visionplus.id
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPORT",SPOTV2 (720p)
-http://202.150.161.68/spotv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1q77RO.png" group-title="SPORT",SPOTV 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -456,6 +416,41 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="SPORT",SOCCER CHANNEL (V+)
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMeuvQ9w0Icdff-qpkVqibdZhegmlX2_c1A&usqp=CAU" group-title="SPORT", Astro Sport 2
+https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595660
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMeuvQ9w0Icdff-qpkVqibdZhegmlX2_c1A&usqp=CAU" group-title="SPORT", Astro Sport 3
+https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595661
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMeuvQ9w0Icdff-qpkVqibdZhegmlX2_c1A&usqp=CAU" group-title="SPORT", Astro Sport 4
+https://m3u-editor.com/serve/982adf20-e683-11ee-bd5b-49ca9dbfb9ab/1114595662
+
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="SPORT",Premier Sports 1
+http://202.21.104.6:88/sps-prime/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="SPORT",Premier Sports 2
+http://202.21.104.6:88/sps-play/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="SPORT", PREIMER SPORT 2
+https://anutv.xyz/live/epl/premier1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="SPORT",Premier Sports 3
+http://202.21.104.6:88/sps-world/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="SPORT",Premier Sports 4
+http://202.21.104.6:88/sps-action/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="SPORT",Premier Sports 5
+http://202.21.104.6:88/sps-plus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://anutv.xyz/gambar/premier.png" group-title="SPORT", ARENA SPORT 3
+https://anutv.xyz/live/epl/premier2.m3u8
+
+#EXTINF:-1 tvg-id="Futbol.tj" tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="SPORT",Futbol PREIMER
+https://live.teleradiocom.tj/8/3m.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
