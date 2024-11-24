@@ -18,13 +18,10 @@ Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="INDONESIA",INDOSIAR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-d
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="ochannel.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/moji.png",Moji 
@@ -1791,43 +1788,8 @@ https://v2.siar.us/mic/live/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7Vu8gPIhvfOcdgcWMksaJ9TVQuvkSB9l00HMcnC0Lp9Jv-pGuQ5lDcjAU6f_iwiSaZqb7rUhS4w0l0NUb2tVdpfi0q2Z7HX0EHnSLfUpkmsYD3sJ_LSI2-fO1rmarqYv3WAM3o58Dsadd3MSsadhyKlRvB3Wk2bl9Hu5pWC1Wt4T0UR2LeeTpvSV9w/s1600/imtv%20%281%29.jpg",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" group-title="MUSIC",Music TV
-https://melon-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="MUSIC",K Pop Channel
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
-#https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="MUSIC",K Pop2 Channel
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="MUSIC",K Pop
 https://marine2.miplay.cl/kpop/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" group-title="MUSIC",B4U MUSIC
-http://cdn2.pishow.tv/live/141/master.m3u8 
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdK9tsWJcPj6sRdU4YBY8WyokKTfZJa6S3pk-RYnIhzApJs9nEm_-4Wgtj&s=10" group-title="MUSIC",MUSIC INDIA
-http://cdn2.pishow.tv/live/135/master.m3u8
-
-9#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FjoNKc-GZmoSdOsaZZjO8ckqFv1DcVhAyih6zqy6dNgc3AaQPocl7x4&s=10" group-title="MUSIC", Nagaswara Pop
-https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="MUSIC",Citra Dangdut
-http://iptvtree.net:8080/F14995/a84c0963/247446
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/681901f0/400d_r32.jpg" group-title="MUSIC",MTV Live HD
-https://melon-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="MTV90s" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg" group-title="MUSIC",MTV 90's
-https://melon-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 #EXTINF:-1 tvg-id="MTVLIVE" tvg-logo="https://telegra.ph/file/3d40ceb0cbbf895b62bcb.png" group-title="MUSIC",MTV HITS
 http://iptv.prosto.tv:7000/ch126/video.m3u8
@@ -1852,19 +1814,6 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20230322T000025SQUARE.png_20230322000026.png" tvg-chno="1523" group-title="MUSIC" , Vevo 2K
-https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8|user-agent=okhttp/4.10.0
-#EXTINF:-1 channel-id="samsung-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20230322T000021SQUARE.png_20230322000021.png" tvg-chno="1521" group-title="MUSIC" , Vevo '80s
-https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8|user-agent=okhttp/4.10.0
-#EXTINF:-1 channel-id="samsung-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" tvg-chno="1522" group-title="MUSIC" , Vevo '90s
-https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8|user-agent=okhttp/4.10.0
-#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" tvg-chno="1524" group-title="MUSIC" , Vevo 2010s
-https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8|user-agent=okhttp/4.10.0
-#EXTINF:-1 channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230809T005430SQUARE.png_20230809005431.png" tvg-chno="1525" group-title="MUSIC" , Vevo Retro Rock
-https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8|user-agent=okhttp/4.10.0
-#EXTINF:-1 channel-id="samsung-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728SQUARE.png_20231024234729.png" tvg-chno="1532" group-title="MUSIC" , Vevo Pop
-https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8|user-agent=okhttp/4.10.0
 
 
 
