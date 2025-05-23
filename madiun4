@@ -1303,9 +1303,9 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=WION
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/123.jpg" group-title="Dens TV",W-Sport
 http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=W-Sport
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia Channels",TransTV 2
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="Dens TV",TransTV 2
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 2
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Dens TV",Trans7 2
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/55.jpg" group-title="Dens TV",Thrill
 http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
@@ -1341,15 +1341,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/92.jpg" group-title="Dens TV",My Cinema Europe HD
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
-#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/98.jpghttps://www.dens.tv/images/channel-logo/120.jpg" group-title="Dens TVDens TV",Motorvision+MotoRRacing TV
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/98.jpghttps://www.dens.tv/images/channel-logo/120.jpg" group-title="Dens TV",Motorvision+MotoRRacing TV
 http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV
-#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/04/film-monkey-man-2024-lk21-d21.jpg.webp" group-title="VOD 2024",Monkey Man (2024)
-https://stream.hownetwork.xyz/xxx/monkey-man-2024-webdl_X_23483923/21/480.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="Dens TV",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg" group-title="HBO GO VOD ðŸŽ¥",Meg 2: The Trench 2023
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/IDN_DOLBY_index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channels",Magna Channel
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Dens TV",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" group-title="Dens TV",Magna Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
@@ -1392,18 +1390,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8?app_type=web&amp;user
 http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensKnowledge
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/117.jpg" group-title="Dens TV",DensFood Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensFood_Channel
-#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2024/04/film-dangerous-evidence-2024-lk21-d21.jpg.webp" group-title="VOD 2024",Dangerous Evidence (2024)
-https://stream.hownetwork.xyz/xxx/dangerous-evidence-2024-webdl_X_bc389d91/21/480.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/130.jpg" group-title="Dens TV",Dance TV
 http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Dance_TV
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/81.jpg" group-title="Dens TV",DW-TV
 http://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DW-TV
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DKFgvY2/discoturbo.png" group-title="Knowledge & Documentary",DISCOVERY TURBO ðŸ‡ºðŸ‡¸
-https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/132.jpg" group-title="Dens TV",DIM TV
 http://op-group1-swiftservehd-1.dens.tv/h/h232/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DIM_TV
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13" group-title="INDIHOME",DAAI TV[INDIHOME]
-https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/23.jpg" group-title="Dens TV",DAAI TV
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" group-title="Dens TV",Celestial Movies HD
